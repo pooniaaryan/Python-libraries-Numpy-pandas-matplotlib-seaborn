@@ -1,0 +1,1201 @@
+customer_id,customer_name,signup_date,City,order_id,order_date,payment_method
+C0001,Customer_1,2024-02-09,city_Customer_1,O00309,2024-02-27,Debit Card
+C0001,Customer_1,2024-02-09,city_Customer_1,O00541,2024-10-19,Upi
+C0001,Customer_1,2024-02-09,city_Customer_1,O00675,2025-03-12,Upi
+C0001,Customer_1,2024-02-09,city_Customer_1,O00782,2024-01-20,Upi
+C0001,Customer_1,2024-02-09,city_Customer_1,O00987,2025-03-17,Cash
+C0002,Customer_2,2025-04-20,city_Customer_2,O00812,2025-01-29,Cash
+C0003,Customer_3,2024-08-19,city_Customer_3,O00360,2024-01-17,Cash On Delivery
+C0003,Customer_3,2024-08-19,city_Customer_3,O00788,2024-02-06,Upi
+C0004,Customer_4,2023-08-08,city_Customer_4,O00730,2024-08-22,Credit Card
+C0005,Customer_4,2024-03-04,city_Customer_4,O00065,2024-01-05,Upi
+C0005,Customer_4,2024-03-04,city_Customer_4,O00163,2024-07-01,Unknown
+C0005,Customer_4,2024-03-04,city_Customer_4,O00251,2025-04-14,Cash On Delivery
+C0005,Customer_4,2024-03-04,city_Customer_4,O00482,2024-09-05,Credit Card
+C0005,Customer_4,2024-03-04,city_Customer_4,O00925,2024-03-29,Credit Card
+C0005,Customer_4,2024-03-04,city_Customer_4,O01059,2025-05-01,Credit Card
+C0005,Customer_4,2024-03-04,city_Customer_4,O01107,2024-02-14,Credit Card
+C0006,Customer_6,2024-07-18,city_Customer_6,O00120,2025-04-25,Debit Card
+C0006,Customer_6,2024-07-18,city_Customer_6,O00512,2024-05-02,Debit Card
+C0006,Customer_6,2024-07-18,city_Customer_6,O00780,2024-07-19,Credit Card
+C0007,Customer_7,2023-05-07,city_Customer_7,O00049,2024-01-24,Unknown
+C0007,Customer_7,2023-05-07,city_Customer_7,O00326,2024-09-20,Unknown
+C0007,Customer_7,2023-05-07,city_Customer_7,O00537,2024-12-14,Cash
+C0008,Customer_8,2024-10-04,city_Customer_8,O00771,2024-05-04,Cash
+C0009,Customer_9,2024-08-13,city_Customer_9,O00343,2024-07-02,Debit Card
+C0010,Customer_10,2023-08-15,city_Customer_10,O00093,2025-09-02,Unknown
+C0010,Customer_10,2023-08-15,city_Customer_10,O00488,2024-09-03,Credit Card
+C0010,Customer_10,2023-08-15,city_Customer_10,O00905,2024-08-15,Cash
+C0011,Customer_10,2023-10-24,city_Customer_10,O00156,2024-02-03,Cash On Delivery
+C0011,Customer_10,2023-10-24,city_Customer_10,O00988,2025-07-02,Upi
+C0012,Customer_12,2023-05-01,city_Customer_12,O00020,2024-04-17,Debit Card
+C0012,Customer_12,2023-05-01,city_Customer_12,O00393,2025-02-26,Upi
+C0013,Customer_13,2025-04-15,city_Customer_13,O00209,2025-04-18,Credit Card
+C0013,Customer_13,2025-04-15,city_Customer_13,O00878,2024-03-07,Credit Card
+C0014,Customer_14,2024-08-18,city_Customer_14,O00319,2025-01-25,Upi
+C0014,Customer_14,2024-08-18,city_Customer_14,O00380,2024-04-26,Unknown
+C0014,Customer_14,2024-08-18,city_Customer_14,O00753,2025-03-03,Debit Card
+C0014,Customer_14,2024-08-18,city_Customer_14,O00944,2024-04-08,Credit Card
+C0014,Customer_14,2024-08-18,city_Customer_14,O01156,2024-10-20,Credit Card
+C0015,Customer_15,2024-01-17,city_Customer_15,O00826,2024-07-02,Upi
+C0016,Customer_16,2023-03-06,city_Customer_16,O00081,2025-03-01,Debit Card
+C0016,Customer_16,2023-03-06,city_Customer_16,O00446,2024-11-23,Upi
+C0016,Customer_16,2023-03-06,city_Customer_16,O00473,2024-02-03,Cash On Delivery
+C0016,Customer_16,2023-03-06,city_Customer_16,O00503,2024-05-15,Upi
+C0016,Customer_16,2023-03-06,city_Customer_16,O00563,2024-02-22,Upi
+C0016,Customer_16,2023-03-06,city_Customer_16,O00841,2024-05-17,Cash
+C0017,Customer_17,2023-07-30,city_Customer_17,O00662,2025-05-01,Unknown
+C0018,Customer_18,2024-03-13,city_Customer_18,O01068,2024-08-07,Upi
+C0020,Customer_20,2023-11-03,city_Customer_20,O00927,2024-01-13,Upi
+C0021,Customer_21,2024-12-16,city_Customer_21,O00263,2024-01-28,Cash On Delivery
+C0021,Customer_21,2024-12-16,city_Customer_21,O00440,2024-04-21,Cash On Delivery
+C0021,Customer_21,2024-12-16,city_Customer_21,O01065,2024-06-28,Cash
+C0022,Customer_22,2024-08-11,city_Customer_22,O00035,2024-11-08,Cash
+C0022,Customer_22,2024-08-11,city_Customer_22,O00168,2024-05-04,Credit Card
+C0022,Customer_22,2024-08-11,city_Customer_22,O00399,2025-03-05,Unknown
+C0023,Customer_23,2025-06-15,city_Customer_23,O00130,2024-11-17,Unknown
+C0023,Customer_23,2025-06-15,city_Customer_23,O00271,2025-02-09,Upi
+C0023,Customer_23,2025-06-15,city_Customer_23,O01072,2024-02-08,Credit Card
+C0024,Customer_24,2023-10-22,city_Customer_24,O00751,2025-04-16,Upi
+C0024,Customer_24,2023-10-22,city_Customer_24,O00884,2024-10-18,Credit Card
+C0025,Customer_25,2023-05-01,city_Customer_25,O01016,2025-01-02,Cash On Delivery
+C0026,Customer_26,2025-02-14,city_Customer_26,O00487,2025-02-16,Credit Card
+C0026,Customer_26,2025-02-14,city_Customer_26,O00869,2024-11-25,Upi
+C0027,Customer_27,2024-03-07,city_Customer_27,O00137,2024-05-18,Debit Card
+C0027,Customer_27,2024-03-07,city_Customer_27,O00233,2024-01-25,Unknown
+C0027,Customer_27,2024-03-07,city_Customer_27,O01005,2024-04-26,Upi
+C0028,Customer_27,2023-03-21,city_Customer_27,O01063,2024-11-11,Unknown
+C0028,Customer_27,2023-03-21,city_Customer_27,O01163,2024-01-28,Cash On Delivery
+C0029,Customer_29,2025-03-19,city_Customer_29,O00110,2024-01-27,Cash
+C0030,Customer_30,2023-12-15,city_Customer_30,O00256,2024-02-21,Credit Card
+C0030,Customer_30,2023-12-15,city_Customer_30,O00469,2024-06-28,Credit Card
+C0030,Customer_30,2023-12-15,city_Customer_30,O00807,2024-06-15,Upi
+C0031,Customer_31,2024-05-23,city_Customer_31,O00757,2025-02-15,Unknown
+C0032,Customer_32,2023-03-12,city_Customer_32,O00476,2024-05-08,Debit Card
+C0032,Customer_32,2023-03-12,city_Customer_32,O00737,2024-04-24,Upi
+C0032,Customer_32,2023-03-12,city_Customer_32,O00803,2024-12-09,Credit Card
+C0032,Customer_32,2023-03-12,city_Customer_32,O01030,2024-08-05,Debit Card
+C0033,Customer_33,2024-04-30,city_Customer_33,O00072,2024-01-06,Upi
+C0033,Customer_33,2024-04-30,city_Customer_33,O00211,2024-05-18,Credit Card
+C0033,Customer_33,2024-04-30,city_Customer_33,O00406,2025-02-13,Upi
+C0033,Customer_33,2024-04-30,city_Customer_33,O00972,2024-05-27,Credit Card
+C0033,Customer_33,2024-04-30,city_Customer_33,O01023,2024-10-06,Upi
+C0034,Customer_34,2023-03-04,city_Customer_34,O00666,2024-05-29,Upi
+C0035,Customer_35,2024-10-24,city_Customer_35,O00420,2025-04-13,Upi
+C0036,Customer_36,2025-04-21,city_Customer_36,O01015,2024-08-24,Cash On Delivery
+C0037,Customer_37,2024-01-31,city_Customer_37,O00194,2024-11-14,Debit Card
+C0037,Customer_37,2024-01-31,city_Customer_37,O00581,2024-05-20,Unknown
+C0037,Customer_37,2024-01-31,city_Customer_37,O00619,2024-01-18,Upi
+C0037,Customer_37,2024-01-31,city_Customer_37,O00814,2025-02-26,Cash On Delivery
+C0038,Customer_38,2023-01-24,city_Customer_38,O00054,2024-08-03,Upi
+C0038,Customer_38,2023-01-24,city_Customer_38,O00162,2024-03-24,Cash
+C0039,Customer_39,2023-06-22,city_Customer_39,O00494,2024-03-10,Credit Card
+C0039,Customer_39,2023-06-22,city_Customer_39,O00989,2025-02-05,Credit Card
+C0040,Customer_40,2023-03-02,city_Customer_40,O00781,2024-05-04,Credit Card
+C0040,Customer_40,2023-03-02,city_Customer_40,O01082,2024-12-01,Credit Card
+C0041,Customer_41,2023-05-13,city_Customer_41,O00733,2024-02-10,Upi
+C0042,Customer_42,2024-02-05,city_Customer_42,O00047,2024-07-23,Cash On Delivery
+C0042,Customer_42,2024-02-05,city_Customer_42,O00304,2024-07-26,Credit Card
+C0042,Customer_42,2024-02-05,city_Customer_42,O00560,2025-04-18,Debit Card
+C0043,Customer_43,2023-03-24,city_Customer_43,O00388,2024-01-08,Credit Card
+C0043,Customer_43,2023-03-24,city_Customer_43,O00595,2024-03-22,Debit Card
+C0043,Customer_43,2023-03-24,city_Customer_43,O00872,2025-03-14,Credit Card
+C0043,Customer_43,2023-03-24,city_Customer_43,O01056,2025-03-10,Unknown
+C0043,Customer_43,2023-03-24,city_Customer_43,O01174,2024-04-23,Upi
+C0044,Customer_44,2024-07-16,city_Customer_44,O00310,2025-03-24,Upi
+C0044,Customer_44,2024-07-16,city_Customer_44,O00629,2024-09-16,Cash
+C0045,Customer_45,2025-04-18,city_Customer_45,O00264,2024-08-13,Credit Card
+C0045,Customer_45,2025-04-18,city_Customer_45,O00504,2024-04-10,Upi
+C0045,Customer_45,2025-04-18,city_Customer_45,O00800,2024-02-28,Credit Card
+C0047,Customer_47,2024-11-30,city_Customer_47,O00175,2024-05-19,Unknown
+C0047,Customer_47,2024-11-30,city_Customer_47,O00339,2024-06-01,Unknown
+C0047,Customer_47,2024-11-30,city_Customer_47,O00838,2024-03-14,Upi
+C0047,Customer_47,2024-11-30,city_Customer_47,O00922,2024-04-11,Cash On Delivery
+C0048,Customer_48,2023-06-04,city_Customer_48,O00192,2025-02-18,Upi
+C0048,Customer_48,2023-06-04,city_Customer_48,O01105,2024-03-17,Upi
+C0049,Customer_49,2023-08-26,city_Customer_49,O00118,2024-05-12,Unknown
+C0050,Customer_50,2024-05-11,city_Customer_50,O00444,2024-02-10,Cash
+C0050,Customer_50,2024-05-11,city_Customer_50,O00496,2025-02-04,Upi
+C0050,Customer_50,2024-05-11,city_Customer_50,O00694,2025-02-10,Cash
+C0051,Customer_51,2023-09-27,city_Customer_51,O00048,2024-07-23,Upi
+C0051,Customer_51,2023-09-27,city_Customer_51,O00515,2024-07-26,Cash
+C0051,Customer_51,2023-09-27,city_Customer_51,O00586,2024-03-11,Unknown
+C0052,Customer_52,2024-03-05,city_Customer_52,O00069,2024-07-06,Credit Card
+C0052,Customer_52,2024-03-05,city_Customer_52,O00353,2025-04-28,Unknown
+C0052,Customer_52,2024-03-05,city_Customer_52,O00613,2024-03-29,Cash
+C0053,Customer_53,2024-08-02,city_Customer_53,O00572,2024-06-06,Credit Card
+C0053,Customer_53,2024-08-02,city_Customer_53,O00966,2024-02-23,Upi
+C0055,Customer_55,2024-11-01,city_Customer_55,O00653,2025-01-16,Credit Card
+C0055,Customer_55,2024-11-01,city_Customer_55,O01118,2024-11-04,Credit Card
+C0056,Customer_56,2024-04-12,city_Customer_56,O00317,2024-12-12,Credit Card
+C0056,Customer_56,2024-04-12,city_Customer_56,O00790,2024-12-04,Debit Card
+C0057,Customer_57,2025-03-28,city_Customer_57,O00157,2024-09-22,Cash
+C0057,Customer_57,2025-03-28,city_Customer_57,O00566,2024-10-08,Cash On Delivery
+C0057,Customer_57,2025-03-28,city_Customer_57,O00955,2025-01-31,Cash
+C0057,Customer_57,2025-03-28,city_Customer_57,O00999,2024-06-25,Cash
+C0058,Customer_58,2024-02-13,city_Customer_58,O00001,2024-09-05,Cash On Delivery
+C0058,Customer_58,2024-02-13,city_Customer_58,O00119,2024-02-21,Cash
+C0058,Customer_58,2024-02-13,city_Customer_58,O00454,2024-07-31,Cash
+C0059,Customer_59,2024-10-11,city_Customer_59,O00594,2025-04-18,Credit Card
+C0059,Customer_59,2024-10-11,city_Customer_59,O00684,2025-03-24,Upi
+C0059,Customer_59,2024-10-11,city_Customer_59,O00839,2024-07-15,Upi
+C0059,Customer_59,2024-10-11,city_Customer_59,O00859,2024-02-06,Credit Card
+C0059,Customer_59,2024-10-11,city_Customer_59,O00890,2024-03-26,Cash On Delivery
+C0060,Customer_60,2023-03-10,city_Customer_60,O00352,2024-01-22,Cash On Delivery
+C0060,Customer_60,2023-03-10,city_Customer_60,O01170,2024-04-30,Credit Card
+C0060,Customer_60,2023-03-10,city_Customer_60,O01184,2024-05-25,Upi
+C0061,Customer_61,2023-06-16,city_Customer_61,O00117,2025-04-07,Upi
+C0061,Customer_61,2023-06-16,city_Customer_61,O00322,2024-03-27,Cash
+C0061,Customer_61,2023-06-16,city_Customer_61,O01073,2025-01-12,Credit Card
+C0062,Customer_62,2023-02-23,city_Customer_62,O00050,2025-02-07,Cash On Delivery
+C0062,Customer_62,2023-02-23,city_Customer_62,O00334,2025-03-04,Debit Card
+C0062,Customer_62,2023-02-23,city_Customer_62,O00369,2025-01-05,Cash
+C0062,Customer_62,2023-02-23,city_Customer_62,O00682,2025-04-09,Unknown
+C0063,Customer_63,2023-06-04,city_Customer_63,O00166,2024-05-29,Unknown
+C0064,Customer_64,2024-09-20,city_Customer_64,O00214,2024-09-21,Unknown
+C0064,Customer_64,2024-09-20,city_Customer_64,O00258,2024-11-28,Cash
+C0065,Customer_64,2024-09-20,city_Customer_64,O00649,2024-04-11,Upi
+C0065,Customer_64,2024-09-20,city_Customer_64,O00739,2025-05-03,Debit Card
+C0065,Customer_64,2024-09-20,city_Customer_64,O00752,2024-06-30,Cash On Delivery
+C0065,Customer_64,2024-09-20,city_Customer_64,O00779,2024-12-24,Credit Card
+C0065,Customer_64,2024-09-20,city_Customer_64,O00933,2024-11-15,Debit Card
+C0065,Customer_64,2024-09-20,city_Customer_64,O00968,2024-08-26,Upi
+C0065,Customer_64,2024-09-20,city_Customer_64,O01130,2024-11-18,Unknown
+C0066,Customer_66,2023-09-16,city_Customer_66,O01149,2024-08-03,Credit Card
+C0068,Customer_68,2025-05-19,city_Customer_68,O00526,2025-04-19,Cash
+C0068,Customer_68,2025-05-19,city_Customer_68,O00877,2024-07-24,Credit Card
+C0068,Customer_68,2025-05-19,city_Customer_68,O00879,2024-01-09,Unknown
+C0069,Customer_69,2024-05-06,city_Customer_69,O00213,2024-06-11,Unknown
+C0069,Customer_69,2024-05-06,city_Customer_69,O00647,2024-02-01,Upi
+C0069,Customer_69,2024-05-06,city_Customer_69,O01160,2024-11-01,Cash On Delivery
+C0070,Customer_70,2023-05-28,city_Customer_70,O00294,2024-10-14,Debit Card
+C0070,Customer_70,2023-05-28,city_Customer_70,O00437,2025-05-03,Cash
+C0070,Customer_70,2023-05-28,city_Customer_70,O00775,2024-10-18,Upi
+C0070,Customer_70,2023-05-28,city_Customer_70,O00867,2024-03-02,Unknown
+C0070,Customer_70,2023-05-28,city_Customer_70,O01006,2024-09-11,Upi
+C0071,Customer_71,2025-01-28,city_Customer_71,O00189,2024-06-15,Credit Card
+C0072,Customer_72,2023-06-15,city_Customer_72,O00616,2025-01-05,Unknown
+C0072,Customer_72,2023-06-15,city_Customer_72,O00824,2024-11-02,Cash On Delivery
+C0073,Customer_73,2024-06-24,city_Customer_73,O00769,2025-03-15,Cash
+C0073,Customer_73,2024-06-24,city_Customer_73,O00896,2024-05-27,Credit Card
+C0073,Customer_73,2024-06-24,city_Customer_73,O01150,2024-04-15,Upi
+C0074,Customer_74,2024-07-10,city_Customer_74,O00164,2024-02-03,Credit Card
+C0074,Customer_74,2024-07-10,city_Customer_74,O00523,2024-11-17,Credit Card
+C0075,Customer_75,2023-11-02,city_Customer_75,O00502,2024-05-19,Credit Card
+C0075,Customer_75,2023-11-02,city_Customer_75,O00836,2025-04-08,Credit Card
+C0076,Customer_76,2024-12-13,city_Customer_76,O00434,2025-04-16,Upi
+C0076,Customer_76,2024-12-13,city_Customer_76,O00903,2024-12-24,Upi
+C0077,Customer_77,2024-01-11,city_Customer_77,O00865,2025-02-17,Cash
+C0078,Customer_78,2025-03-01,city_Customer_78,O00679,2024-09-20,Cash
+C0079,Customer_79,2025-03-08,city_Customer_79,O00707,2024-05-20,Cash
+C0081,Customer_81,2025-04-05,city_Customer_81,O00026,2025-01-14,Upi
+C0082,Customer_82,2025-01-27,city_Customer_82,O00073,2024-07-18,Debit Card
+C0082,Customer_82,2025-01-27,city_Customer_82,O00802,2025-04-12,Upi
+C0082,Customer_82,2025-01-27,city_Customer_82,O00813,2024-09-29,Upi
+C0083,Customer_83,2024-06-14,city_Customer_83,O00382,2025-11-03,Upi
+C0084,Customer_84,2023-01-30,city_Customer_84,O00103,2024-03-20,Upi
+C0084,Customer_84,2023-01-30,city_Customer_84,O00874,2024-08-18,Upi
+C0084,Customer_84,2023-01-30,city_Customer_84,O01110,2025-08-01,Cash
+C0084,Customer_84,2023-01-30,city_Customer_84,O01122,2025-03-11,Credit Card
+C0085,Customer_85,2024-04-28,city_Customer_85,O00063,2024-11-25,Credit Card
+C0085,Customer_85,2024-04-28,city_Customer_85,O00760,2025-11-04,Cash
+C0085,Customer_85,2024-04-28,city_Customer_85,O01177,2025-01-31,Upi
+C0086,Customer_86,2024-09-11,city_Customer_86,O00340,2025-01-17,Cash
+C0086,Customer_86,2024-09-11,city_Customer_86,O00665,2024-06-30,Unknown
+C0087,Customer_87,2025-04-07,city_Customer_87,O00070,2024-05-30,Unknown
+C0087,Customer_87,2025-04-07,city_Customer_87,O00199,2024-08-26,Credit Card
+C0087,Customer_87,2025-04-07,city_Customer_87,O00637,2024-12-05,Credit Card
+C0087,Customer_87,2025-04-07,city_Customer_87,O01081,2024-01-29,Upi
+C0088,Customer_88,2024-01-09,city_Customer_88,O00016,2024-03-12,Credit Card
+C0088,Customer_88,2024-01-09,city_Customer_88,O00018,2025-02-27,Cash
+C0088,Customer_88,2024-01-09,city_Customer_88,O00374,2024-03-16,Cash
+C0089,Customer_89,2023-08-21,city_Customer_89,O00292,2024-12-21,Credit Card
+C0089,Customer_89,2023-08-21,city_Customer_89,O00514,2025-03-07,Upi
+C0089,Customer_89,2023-08-21,city_Customer_89,O00570,2024-09-06,Debit Card
+C0089,Customer_89,2023-08-21,city_Customer_89,O01040,2025-03-20,Cash On Delivery
+C0090,Customer_90,2023-07-29,city_Customer_90,O00094,2024-01-10,Upi
+C0090,Customer_90,2023-07-29,city_Customer_90,O00153,2025-03-31,Unknown
+C0090,Customer_90,2023-07-29,city_Customer_90,O00450,2024-11-16,Cash
+C0091,Customer_91,2025-05-10,city_Customer_91,O00066,2024-04-21,Credit Card
+C0091,Customer_91,2025-05-10,city_Customer_91,O00296,2024-04-25,Credit Card
+C0091,Customer_91,2025-05-10,city_Customer_91,O00545,2024-04-13,Cash On Delivery
+C0091,Customer_91,2025-05-10,city_Customer_91,O00928,2025-05-11,Credit Card
+C0092,Customer_91,2023-12-19,city_Customer_91,O00358,2024-01-21,Unknown
+C0092,Customer_91,2023-12-19,city_Customer_91,O00740,2024-10-26,Cash On Delivery
+C0092,Customer_91,2023-12-19,city_Customer_91,O00956,2024-05-30,Cash
+C0093,Customer_93,2025-05-04,city_Customer_93,O00024,2024-12-08,Debit Card
+C0093,Customer_93,2025-05-04,city_Customer_93,O00159,2024-08-01,Unknown
+C0093,Customer_93,2025-05-04,city_Customer_93,O00465,2025-04-24,Credit Card
+C0093,Customer_93,2025-05-04,city_Customer_93,O00491,2024-07-31,Cash On Delivery
+C0094,Customer_94,2025-03-12,city_Customer_94,O01188,2024-02-05,Upi
+C0095,Customer_95,2024-05-04,city_Customer_95,O00242,2024-03-28,Cash
+C0095,Customer_95,2024-05-04,city_Customer_95,O00281,2024-10-04,Credit Card
+C0095,Customer_95,2024-05-04,city_Customer_95,O01017,2024-04-04,Debit Card
+C0096,Customer_96,2025-03-19,city_Customer_96,O00386,2024-11-03,Upi
+C0096,Customer_96,2025-03-19,city_Customer_96,O00854,2024-07-26,Unknown
+C0097,Customer_97,2025-03-31,city_Customer_97,O00036,2024-09-18,Unknown
+C0097,Customer_97,2025-03-31,city_Customer_97,O00105,2024-01-18,Unknown
+C0097,Customer_97,2025-03-31,city_Customer_97,O00940,2024-02-03,Credit Card
+C0098,Customer_98,2024-02-10,city_Customer_98,O00218,2025-01-13,Unknown
+C0098,Customer_98,2024-02-10,city_Customer_98,O00591,2024-04-13,Upi
+C0098,Customer_98,2024-02-10,city_Customer_98,O00617,2025-01-17,Upi
+C0098,Customer_98,2024-02-10,city_Customer_98,O00632,2024-01-08,Upi
+C0099,Customer_99,2023-03-28,city_Customer_99,O00171,2025-04-19,Credit Card
+C0099,Customer_99,2023-03-28,city_Customer_99,O00786,2024-04-05,Credit Card
+C0100,Customer_100,2023-05-11,city_Customer_100,O00107,2025-04-29,Credit Card
+C0100,Customer_100,2023-05-11,city_Customer_100,O00144,2024-07-18,Cash On Delivery
+C0100,Customer_100,2023-05-11,city_Customer_100,O01111,2024-01-19,Debit Card
+C0101,Customer_100,2024-04-21,city_Customer_100,O00252,2024-10-27,Upi
+C0101,Customer_100,2024-04-21,city_Customer_100,O00302,2024-03-04,Upi
+C0101,Customer_100,2024-04-21,city_Customer_100,O00640,2024-01-22,Credit Card
+C0101,Customer_100,2024-04-21,city_Customer_100,O00866,2024-04-15,Cash
+C0102,Customer_102,2024-09-18,city_Customer_102,O00261,2025-03-15,Upi
+C0102,Customer_102,2024-09-18,city_Customer_102,O00850,2024-05-12,Cash
+C0102,Customer_102,2024-09-18,city_Customer_102,O01138,2024-10-10,Cash
+C0103,Customer_103,2024-11-04,city_Customer_103,O00396,2024-07-01,Cash
+C0103,Customer_103,2024-11-04,city_Customer_103,O00829,2024-10-05,Cash On Delivery
+C0103,Customer_103,2024-11-04,city_Customer_103,O01004,2024-01-03,Upi
+C0104,Customer_104,2024-07-15,city_Customer_104,O00611,2025-05-10,Cash
+C0104,Customer_104,2024-07-15,city_Customer_104,O01152,2024-04-08,Upi
+C0105,Customer_105,2023-01-15,city_Customer_105,O00348,2025-02-05,Debit Card
+C0105,Customer_105,2023-01-15,city_Customer_105,O00384,2024-08-23,Cash On Delivery
+C0105,Customer_105,2023-01-15,city_Customer_105,O00758,2024-06-24,Credit Card
+C0106,Customer_106,2024-10-27,city_Customer_106,O01108,2024-11-07,Upi
+C0107,Customer_107,2023-05-23,city_Customer_107,O00895,2025-05-10,Debit Card
+C0109,Customer_109,2023-09-15,city_Customer_109,O00102,2024-07-09,Unknown
+C0109,Customer_109,2023-09-15,city_Customer_109,O00961,2024-12-03,Cash On Delivery
+C0110,Customer_110,2023-09-04,city_Customer_110,O00626,2025-03-26,Upi
+C0110,Customer_110,2023-09-04,city_Customer_110,O00973,2024-12-24,Cash
+C0110,Customer_110,2023-09-04,city_Customer_110,O00982,2025-03-20,Cash
+C0111,Customer_111,2023-09-23,city_Customer_111,O00555,2024-10-30,Unknown
+C0111,Customer_111,2023-09-23,city_Customer_111,O00945,2025-03-06,Unknown
+C0112,Customer_112,2023-03-04,city_Customer_112,O00701,2024-12-14,Cash
+C0113,Customer_113,2024-04-14,city_Customer_113,O00177,2024-03-03,Cash On Delivery
+C0113,Customer_113,2024-04-14,city_Customer_113,O00497,2024-02-03,Credit Card
+C0113,Customer_113,2024-04-14,city_Customer_113,O00636,2024-05-29,Upi
+C0113,Customer_113,2024-04-14,city_Customer_113,O00861,2024-01-31,Upi
+C0114,Customer_114,2024-03-06,city_Customer_114,O00401,2024-07-02,Credit Card
+C0114,Customer_114,2024-03-06,city_Customer_114,O01161,2025-02-28,Debit Card
+C0115,Customer_115,2023-05-14,city_Customer_115,O00535,2024-08-18,Unknown
+C0115,Customer_115,2023-05-14,city_Customer_115,O00747,2024-07-25,Debit Card
+C0116,Customer_116,2024-06-06,city_Customer_116,O00197,2024-05-06,Credit Card
+C0116,Customer_116,2024-06-06,city_Customer_116,O00397,2024-01-18,Credit Card
+C0116,Customer_116,2024-06-06,city_Customer_116,O01083,2024-08-25,Upi
+C0117,Customer_116,2025-03-06,city_Customer_116,O00400,2025-02-09,Unknown
+C0118,Customer_118,2025-03-05,city_Customer_118,O00332,2024-12-19,Upi
+C0118,Customer_118,2025-03-05,city_Customer_118,O00391,2025-04-14,Cash
+C0118,Customer_118,2025-03-05,city_Customer_118,O00604,2024-01-20,Upi
+C0119,Customer_119,2023-05-25,city_Customer_119,O00132,2024-11-17,Credit Card
+C0119,Customer_119,2023-05-25,city_Customer_119,O00655,2024-04-02,Credit Card
+C0120,Customer_120,2023-05-04,city_Customer_120,O00077,2024-07-04,Credit Card
+C0120,Customer_120,2023-05-04,city_Customer_120,O00978,2024-02-16,Cash On Delivery
+C0121,Customer_121,2024-11-29,city_Customer_121,O00562,2024-02-16,Upi
+C0121,Customer_121,2024-11-29,city_Customer_121,O00714,2025-01-31,Cash On Delivery
+C0122,Customer_122,2024-05-09,city_Customer_122,O00027,2024-05-15,Credit Card
+C0122,Customer_122,2024-05-09,city_Customer_122,O00060,2025-01-31,Cash On Delivery
+C0122,Customer_122,2024-05-09,city_Customer_122,O00778,2025-10-04,Cash On Delivery
+C0123,Customer_123,2024-07-27,city_Customer_123,O00112,2024-12-27,Debit Card
+C0123,Customer_123,2024-07-27,city_Customer_123,O00142,2024-05-11,Cash
+C0123,Customer_123,2024-07-27,city_Customer_123,O00959,2025-02-05,Cash
+C0123,Customer_123,2024-07-27,city_Customer_123,O01135,2024-10-10,Cash On Delivery
+C0124,Customer_124,2023-10-11,city_Customer_124,O00198,2024-01-31,Debit Card
+C0124,Customer_124,2023-10-11,city_Customer_124,O00669,2024-04-20,Upi
+C0124,Customer_124,2023-10-11,city_Customer_124,O00888,2024-05-20,Credit Card
+C0125,Customer_124,2024-06-03,city_Customer_124,O00195,2024-09-23,Cash On Delivery
+C0125,Customer_124,2024-06-03,city_Customer_124,O00255,2024-03-15,Upi
+C0125,Customer_124,2024-06-03,city_Customer_124,O00729,2025-05-03,Credit Card
+C0126,Customer_126,2025-02-17,city_Customer_126,O00466,2024-01-31,Credit Card
+C0126,Customer_126,2025-02-17,city_Customer_126,O00531,2024-07-28,Debit Card
+C0127,Customer_127,2024-03-29,city_Customer_127,O00276,2024-04-08,Credit Card
+C0127,Customer_127,2024-03-29,city_Customer_127,O00977,2025-04-01,Unknown
+C0129,Customer_129,2023-10-11,city_Customer_129,O00289,2025-03-22,Upi
+C0130,Customer_130,2025-04-06,city_Customer_130,O00038,2024-06-22,Cash
+C0130,Customer_130,2025-04-06,city_Customer_130,O00773,2025-04-28,Unknown
+C0130,Customer_130,2025-04-06,city_Customer_130,O01080,2025-05-15,Upi
+C0130,Customer_130,2025-04-06,city_Customer_130,O01199,2024-03-13,Unknown
+C0131,Customer_131,2024-12-16,city_Customer_131,O00046,2024-10-27,Upi
+C0131,Customer_131,2024-12-16,city_Customer_131,O00631,2025-04-10,Credit Card
+C0131,Customer_131,2024-12-16,city_Customer_131,O00911,2024-04-23,Credit Card
+C0133,Customer_133,2025-05-10,city_Customer_133,O00007,2025-04-20,Credit Card
+C0133,Customer_133,2025-05-10,city_Customer_133,O00550,2025-04-18,Credit Card
+C0133,Customer_133,2025-05-10,city_Customer_133,O00588,2024-04-23,Debit Card
+C0133,Customer_133,2025-05-10,city_Customer_133,O00981,2025-01-18,Unknown
+C0133,Customer_133,2025-05-10,city_Customer_133,O01141,2024-10-25,Cash
+C0135,Customer_135,2023-03-16,city_Customer_135,O00934,2025-02-09,Cash
+C0136,Customer_136,2023-03-16,city_Customer_136,O00722,2024-03-18,Credit Card
+C0137,Customer_137,2025-03-13,city_Customer_137,O00160,2025-03-22,Debit Card
+C0137,Customer_137,2025-03-13,city_Customer_137,O00327,2025-04-24,Cash
+C0137,Customer_137,2025-03-13,city_Customer_137,O01165,2024-02-07,Debit Card
+C0139,Customer_139,2023-05-27,city_Customer_139,O00678,2025-04-20,Cash On Delivery
+C0140,Customer_140,2024-04-23,city_Customer_140,O00445,2024-01-03,Debit Card
+C0140,Customer_140,2024-04-23,city_Customer_140,O01125,2024-11-26,Credit Card
+C0141,Customer_141,2024-02-12,city_Customer_141,O00178,2024-10-04,Credit Card
+C0141,Customer_141,2024-02-12,city_Customer_141,O00324,2024-03-10,Unknown
+C0141,Customer_141,2024-02-12,city_Customer_141,O00687,2024-04-01,Credit Card
+C0141,Customer_141,2024-02-12,city_Customer_141,O00889,2024-09-24,Cash
+C0142,Customer_142,2024-11-14,city_Customer_142,O00151,2025-03-07,Credit Card
+C0142,Customer_142,2024-11-14,city_Customer_142,O00345,2025-01-17,Upi
+C0142,Customer_142,2024-11-14,city_Customer_142,O00357,2024-08-14,Cash On Delivery
+C0142,Customer_142,2024-11-14,city_Customer_142,O00766,2024-01-07,Credit Card
+C0142,Customer_142,2024-11-14,city_Customer_142,O00843,2024-07-08,Debit Card
+C0143,Customer_143,2024-12-24,city_Customer_143,O00028,2024-08-30,Upi
+C0143,Customer_143,2024-12-24,city_Customer_143,O00191,2024-03-08,Unknown
+C0143,Customer_143,2024-12-24,city_Customer_143,O01000,2025-03-14,Upi
+C0144,Customer_144,2024-02-18,city_Customer_144,O00019,2024-09-28,Upi
+C0144,Customer_144,2024-02-18,city_Customer_144,O00217,2024-12-11,Debit Card
+C0144,Customer_144,2024-02-18,city_Customer_144,O00567,2024-07-27,Credit Card
+C0144,Customer_144,2024-02-18,city_Customer_144,O00695,2024-04-12,Upi
+C0145,Customer_145,2024-01-01,city_Customer_145,O00087,2025-02-19,Credit Card
+C0145,Customer_145,2024-01-01,city_Customer_145,O00423,2024-12-14,Debit Card
+C0146,Customer_146,2024-01-10,city_Customer_146,O00356,2024-12-18,Credit Card
+C0146,Customer_146,2024-01-10,city_Customer_146,O00827,2024-10-12,Unknown
+C0146,Customer_146,2024-01-10,city_Customer_146,O01041,2024-12-06,Credit Card
+C0146,Customer_146,2024-01-10,city_Customer_146,O01094,2024-09-11,Cash On Delivery
+C0146,Customer_146,2024-01-10,city_Customer_146,O01166,2024-03-24,Credit Card
+C0147,Customer_146,2024-04-14,city_Customer_146,O00125,2025-04-13,Upi
+C0147,Customer_146,2024-04-14,city_Customer_146,O00361,2024-05-25,Upi
+C0147,Customer_146,2024-04-14,city_Customer_146,O01024,2024-05-11,Credit Card
+C0148,Customer_148,2024-01-29,city_Customer_148,O00037,2024-01-18,Cash On Delivery
+C0148,Customer_148,2024-01-29,city_Customer_148,O00146,2024-11-23,Unknown
+C0148,Customer_148,2024-01-29,city_Customer_148,O00254,2024-10-21,Cash On Delivery
+C0148,Customer_148,2024-01-29,city_Customer_148,O00259,2025-01-01,Cash
+C0148,Customer_148,2024-01-29,city_Customer_148,O00403,2024-10-28,Debit Card
+C0148,Customer_148,2024-01-29,city_Customer_148,O00432,2024-06-03,Debit Card
+C0148,Customer_148,2024-01-29,city_Customer_148,O01029,2024-03-19,Unknown
+C0148,Customer_148,2024-01-29,city_Customer_148,O01076,2024-10-09,Upi
+C0149,Customer_149,2023-10-30,city_Customer_149,O00291,2024-06-08,Cash On Delivery
+C0149,Customer_149,2023-10-30,city_Customer_149,O01117,2025-02-19,Debit Card
+C0150,Customer_150,2023-04-26,city_Customer_150,O00009,2024-06-29,Cash On Delivery
+C0150,Customer_150,2023-04-26,city_Customer_150,O00417,2025-01-07,Credit Card
+C0151,Customer_151,2025-06-16,city_Customer_151,O00051,2024-11-16,Upi
+C0152,Customer_152,2023-10-06,city_Customer_152,O00499,2024-11-20,Upi
+C0152,Customer_152,2023-10-06,city_Customer_152,O00644,2025-01-10,Credit Card
+C0152,Customer_152,2023-10-06,city_Customer_152,O01162,2024-07-08,Upi
+C0153,Customer_152,2023-10-04,city_Customer_152,O00468,2025-04-07,Credit Card
+C0153,Customer_152,2023-10-04,city_Customer_152,O00984,2025-05-14,Cash
+C0153,Customer_152,2023-10-04,city_Customer_152,O01077,2024-08-10,Upi
+C0153,Customer_152,2023-10-04,city_Customer_152,O01167,2024-02-26,Upi
+C0154,Customer_154,2025-05-19,city_Customer_154,O00402,2024-10-10,Cash On Delivery
+C0155,Customer_155,2024-02-20,city_Customer_155,O00405,2024-09-06,Unknown
+C0155,Customer_155,2024-02-20,city_Customer_155,O00429,2024-03-10,Upi
+C0155,Customer_155,2024-02-20,city_Customer_155,O00464,2024-11-17,Cash On Delivery
+C0155,Customer_155,2024-02-20,city_Customer_155,O00645,2025-12-02,Credit Card
+C0155,Customer_155,2024-02-20,city_Customer_155,O00893,2025-05-04,Debit Card
+C0156,Customer_156,2024-08-07,city_Customer_156,O00064,2024-11-16,Cash On Delivery
+C0156,Customer_156,2024-08-07,city_Customer_156,O00176,2024-10-26,Debit Card
+C0156,Customer_156,2024-08-07,city_Customer_156,O00683,2024-07-05,Upi
+C0156,Customer_156,2024-08-07,city_Customer_156,O01055,2024-08-26,Upi
+C0157,Customer_157,2023-04-02,city_Customer_157,O00023,2024-04-16,Credit Card
+C0157,Customer_157,2023-04-02,city_Customer_157,O00627,2024-11-09,Upi
+C0158,Customer_158,2023-07-07,city_Customer_158,O00597,2024-07-06,Cash
+C0158,Customer_158,2023-07-07,city_Customer_158,O00937,2025-03-05,Cash On Delivery
+C0159,Customer_159,2023-10-03,city_Customer_159,O00216,2024-01-08,Cash
+C0160,Customer_160,2023-04-01,city_Customer_160,O00062,2024-08-31,Upi
+C0160,Customer_160,2023-04-01,city_Customer_160,O00280,2024-05-03,Credit Card
+C0160,Customer_160,2023-04-01,city_Customer_160,O01194,2024-02-13,Upi
+C0161,Customer_161,2024-09-14,city_Customer_161,O00127,2025-04-19,Upi
+C0161,Customer_161,2024-09-14,city_Customer_161,O00246,2024-09-25,Credit Card
+C0161,Customer_161,2024-09-14,city_Customer_161,O00455,2024-02-17,Credit Card
+C0161,Customer_161,2024-09-14,city_Customer_161,O00480,2024-01-09,Credit Card
+C0161,Customer_161,2024-09-14,city_Customer_161,O01095,2024-12-19,Upi
+C0162,Customer_162,2023-09-28,city_Customer_162,O00086,2024-10-27,Debit Card
+C0162,Customer_162,2023-09-28,city_Customer_162,O00952,2024-02-01,Unknown
+C0162,Customer_162,2023-09-28,city_Customer_162,O01020,2024-07-13,Upi
+C0164,Customer_164,2024-03-03,city_Customer_164,O00115,2024-07-08,Credit Card
+C0164,Customer_164,2024-03-03,city_Customer_164,O01168,2024-06-07,Upi
+C0165,Customer_165,2024-09-28,city_Customer_165,O00031,2025-06-03,Unknown
+C0165,Customer_165,2024-09-28,city_Customer_165,O00917,2024-07-20,Upi
+C0165,Customer_165,2024-09-28,city_Customer_165,O01164,2024-07-09,Cash
+C0166,Customer_166,2024-12-27,city_Customer_166,O00618,2024-10-31,Unknown
+C0167,Customer_167,2023-06-15,city_Customer_167,O00145,2024-01-30,Debit Card
+C0167,Customer_167,2023-06-15,city_Customer_167,O00674,2024-07-19,Upi
+C0167,Customer_167,2023-06-15,city_Customer_167,O00696,2024-06-06,Credit Card
+C0167,Customer_167,2023-06-15,city_Customer_167,O00808,2024-08-14,Unknown
+C0167,Customer_167,2023-06-15,city_Customer_167,O01139,2024-06-24,Cash
+C0168,Customer_168,2023-07-26,city_Customer_168,O00921,2025-02-24,Unknown
+C0168,Customer_168,2023-07-26,city_Customer_168,O00974,2025-02-23,Cash On Delivery
+C0168,Customer_168,2023-07-26,city_Customer_168,O01127,2025-04-09,Unknown
+C0169,Customer_169,2023-11-09,city_Customer_169,O00364,2024-12-07,Upi
+C0169,Customer_169,2023-11-09,city_Customer_169,O00439,2024-11-16,Credit Card
+C0170,Customer_170,2023-10-24,city_Customer_170,O00074,2025-05-05,Upi
+C0172,Customer_172,2023-09-14,city_Customer_172,O00672,2024-04-24,Cash On Delivery
+C0172,Customer_172,2023-09-14,city_Customer_172,O00891,2024-02-11,Unknown
+C0172,Customer_172,2023-09-14,city_Customer_172,O01136,2025-04-13,Unknown
+C0173,Customer_172,2025-01-20,city_Customer_172,O00392,2024-07-06,Cash
+C0173,Customer_172,2025-01-20,city_Customer_172,O00490,2024-08-25,Cash On Delivery
+C0174,Customer_174,2024-06-10,city_Customer_174,O00975,2024-05-02,Cash On Delivery
+C0176,Customer_176,2024-03-18,city_Customer_176,O00385,2025-05-10,Unknown
+C0176,Customer_176,2024-03-18,city_Customer_176,O00995,2025-01-21,Debit Card
+C0177,Customer_177,2025-05-04,city_Customer_177,O00116,2024-01-20,Cash
+C0178,Customer_178,2023-11-12,city_Customer_178,O00266,2024-06-10,Unknown
+C0178,Customer_178,2023-11-12,city_Customer_178,O00272,2024-03-28,Cash On Delivery
+C0178,Customer_178,2023-11-12,city_Customer_178,O00924,2024-02-13,Credit Card
+C0179,Customer_179,2023-12-17,city_Customer_179,O00053,2024-02-21,Credit Card
+C0179,Customer_179,2023-12-17,city_Customer_179,O00449,2024-01-30,Upi
+C0179,Customer_179,2023-12-17,city_Customer_179,O00536,2025-01-23,Credit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O00152,2024-04-10,Upi
+C0180,Customer_180,2025-01-16,city_Customer_180,O00244,2024-02-26,Debit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O00438,2024-05-21,Upi
+C0180,Customer_180,2025-01-16,city_Customer_180,O00442,2024-11-27,Credit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O00704,2025-04-03,Credit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O00756,2024-12-19,Cash On Delivery
+C0180,Customer_180,2025-01-16,city_Customer_180,O01035,2024-04-28,Credit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O01088,2024-03-25,Credit Card
+C0180,Customer_180,2025-01-16,city_Customer_180,O01147,2024-07-03,Credit Card
+C0181,Customer_181,2023-12-22,city_Customer_181,O00820,2024-08-11,Credit Card
+C0183,Customer_183,2025-06-19,city_Customer_183,O00542,2024-06-05,Debit Card
+C0184,Customer_184,2023-02-26,city_Customer_184,O00307,2024-10-16,Unknown
+C0184,Customer_184,2023-02-26,city_Customer_184,O00435,2024-06-04,Cash
+C0185,Customer_185,2025-06-10,city_Customer_185,O00034,2024-11-22,Upi
+C0185,Customer_185,2025-06-10,city_Customer_185,O00134,2024-12-31,Credit Card
+C0185,Customer_185,2025-06-10,city_Customer_185,O00585,2024-08-10,Upi
+C0185,Customer_185,2025-06-10,city_Customer_185,O00587,2024-01-08,Credit Card
+C0185,Customer_185,2025-06-10,city_Customer_185,O00906,2024-08-26,Credit Card
+C0186,Customer_186,2024-09-05,city_Customer_186,O00098,2025-02-16,Debit Card
+C0186,Customer_186,2024-09-05,city_Customer_186,O01084,2024-04-11,Cash
+C0186,Customer_186,2024-09-05,city_Customer_186,O01176,2024-04-11,Debit Card
+C0187,Customer_187,2023-02-16,city_Customer_187,O00169,2024-03-26,Debit Card
+C0187,Customer_187,2023-02-16,city_Customer_187,O00248,2024-01-31,Upi
+C0187,Customer_187,2023-02-16,city_Customer_187,O00407,2024-11-13,Cash On Delivery
+C0187,Customer_187,2023-02-16,city_Customer_187,O00467,2024-05-12,Cash
+C0187,Customer_187,2023-02-16,city_Customer_187,O01062,2024-05-26,Credit Card
+C0188,Customer_188,2023-10-03,city_Customer_188,O00642,2024-06-01,Cash On Delivery
+C0188,Customer_188,2023-10-03,city_Customer_188,O01025,2024-01-09,Upi
+C0189,Customer_189,2024-01-08,city_Customer_189,O01048,2024-01-08,Unknown
+C0191,Customer_191,2023-08-12,city_Customer_191,O00013,2024-09-03,Debit Card
+C0191,Customer_191,2023-08-12,city_Customer_191,O00149,2024-03-07,Upi
+C0191,Customer_191,2023-08-12,city_Customer_191,O00569,2024-02-10,Debit Card
+C0192,Customer_192,2023-12-10,city_Customer_192,O00273,2024-04-01,Cash On Delivery
+C0193,Customer_193,2023-10-13,city_Customer_193,O00240,2025-08-05,Unknown
+C0193,Customer_193,2023-10-13,city_Customer_193,O00379,2024-09-28,Debit Card
+C0193,Customer_193,2023-10-13,city_Customer_193,O00688,2024-10-27,Upi
+C0193,Customer_193,2023-10-13,city_Customer_193,O00936,2024-11-05,Upi
+C0193,Customer_193,2023-10-13,city_Customer_193,O00986,2024-03-12,Upi
+C0194,Customer_194,2023-09-12,city_Customer_194,O00097,2024-04-18,Upi
+C0194,Customer_194,2023-09-12,city_Customer_194,O00373,2024-04-23,Unknown
+C0196,Customer_196,2023-05-28,city_Customer_196,O00359,2024-04-21,Cash
+C0196,Customer_196,2023-05-28,city_Customer_196,O00746,2024-06-23,Credit Card
+C0196,Customer_196,2023-05-28,city_Customer_196,O00857,2024-04-02,Cash
+C0196,Customer_196,2023-05-28,city_Customer_196,O00941,2025-02-10,Unknown
+C0197,Customer_197,2024-02-08,city_Customer_197,O00155,2024-10-25,Credit Card
+C0197,Customer_197,2024-02-08,city_Customer_197,O00799,2024-01-04,Upi
+C0197,Customer_197,2024-02-08,city_Customer_197,O00950,2025-04-06,Credit Card
+C0197,Customer_197,2024-02-08,city_Customer_197,O01195,2024-05-14,Upi
+C0198,Customer_197,2024-10-06,city_Customer_197,O00295,2024-02-03,Debit Card
+C0198,Customer_197,2024-10-06,city_Customer_197,O00764,2024-12-29,Cash On Delivery
+C0198,Customer_197,2024-10-06,city_Customer_197,O00900,2024-08-11,Debit Card
+C0199,Customer_199,2024-06-25,city_Customer_199,O00748,2024-02-09,Upi
+C0199,Customer_199,2024-06-25,city_Customer_199,O00847,2025-03-29,Cash On Delivery
+C0200,Customer_200,2024-11-04,city_Customer_200,O00612,2025-04-28,Debit Card
+C0201,Customer_201,2024-02-03,city_Customer_201,O00366,2024-08-28,Cash
+C0201,Customer_201,2024-02-03,city_Customer_201,O01134,2025-04-17,Credit Card
+C0202,Customer_202,2024-05-21,city_Customer_202,O00253,2024-03-30,Debit Card
+C0202,Customer_202,2024-05-21,city_Customer_202,O00335,2024-02-26,Debit Card
+C0203,Customer_203,2024-09-25,city_Customer_203,O00025,2024-09-10,Credit Card
+C0203,Customer_203,2024-09-25,city_Customer_203,O00602,2024-08-25,Credit Card
+C0203,Customer_203,2024-09-25,city_Customer_203,O00630,2024-05-25,Credit Card
+C0203,Customer_203,2024-09-25,city_Customer_203,O01050,2024-08-29,Credit Card
+C0203,Customer_203,2024-09-25,city_Customer_203,O01085,2024-07-03,Cash On Delivery
+C0204,Customer_204,2025-04-24,city_Customer_204,O01007,2025-03-16,Cash On Delivery
+C0204,Customer_204,2025-04-24,city_Customer_204,O01190,2024-07-27,Debit Card
+C0205,Customer_205,2024-10-04,city_Customer_205,O00421,2025-01-31,Upi
+C0205,Customer_205,2024-10-04,city_Customer_205,O00565,2024-12-30,Unknown
+C0206,Customer_206,2025-04-11,city_Customer_206,O00109,2024-02-04,Upi
+C0207,Customer_207,2025-02-09,city_Customer_207,O00493,2025-02-09,Upi
+C0207,Customer_207,2025-02-09,city_Customer_207,O00609,2024-12-03,Debit Card
+C0207,Customer_207,2025-02-09,city_Customer_207,O01036,2025-05-14,Upi
+C0209,Customer_209,2024-11-30,city_Customer_209,O00044,2024-01-12,Upi
+C0209,Customer_209,2024-11-30,city_Customer_209,O00478,2024-06-15,Debit Card
+C0209,Customer_209,2024-11-30,city_Customer_209,O00584,2025-03-25,Upi
+C0209,Customer_209,2024-11-30,city_Customer_209,O00646,2024-04-11,Cash
+C0210,Customer_210,2023-08-24,city_Customer_210,O00527,2024-09-27,Cash
+C0210,Customer_210,2023-08-24,city_Customer_210,O01144,2024-08-22,Debit Card
+C0212,Customer_212,2024-01-21,city_Customer_212,O00590,2024-09-21,Unknown
+C0213,Customer_213,2023-02-21,city_Customer_213,O00575,2024-10-01,Cash
+C0214,Customer_214,2024-06-28,city_Customer_214,O00792,2024-01-13,Unknown
+C0214,Customer_214,2024-06-28,city_Customer_214,O00793,2024-03-03,Credit Card
+C0214,Customer_214,2024-06-28,city_Customer_214,O00834,2025-02-15,Cash
+C0215,Customer_215,2023-09-28,city_Customer_215,O00823,2024-11-24,Credit Card
+C0216,Customer_215,2025-02-05,city_Customer_215,O00456,2024-03-14,Upi
+C0216,Customer_215,2025-02-05,city_Customer_215,O00605,2024-12-01,Upi
+C0217,Customer_217,2023-04-05,city_Customer_217,O00141,2024-10-13,Debit Card
+C0217,Customer_217,2023-04-05,city_Customer_217,O00412,2024-03-27,Unknown
+C0217,Customer_217,2023-04-05,city_Customer_217,O00589,2024-09-30,Credit Card
+C0218,Customer_218,2025-02-02,city_Customer_218,O00052,2024-01-21,Unknown
+C0218,Customer_218,2025-02-02,city_Customer_218,O00268,2025-05-01,Credit Card
+C0218,Customer_218,2025-02-02,city_Customer_218,O00447,2024-06-13,Upi
+C0218,Customer_218,2025-02-02,city_Customer_218,O00472,2024-06-14,Upi
+C0218,Customer_218,2025-02-02,city_Customer_218,O00484,2024-10-23,Credit Card
+C0218,Customer_218,2025-02-02,city_Customer_218,O00818,2024-04-21,Upi
+C0218,Customer_218,2025-02-02,city_Customer_218,O00863,2024-02-21,Unknown
+C0218,Customer_218,2025-02-02,city_Customer_218,O00880,2024-11-14,Credit Card
+C0218,Customer_218,2025-02-02,city_Customer_218,O01131,2024-02-20,Unknown
+C0219,Customer_219,2025-04-08,city_Customer_219,O00106,2024-05-13,Cash On Delivery
+C0219,Customer_219,2025-04-08,city_Customer_219,O00718,2024-06-22,Upi
+C0220,Customer_220,2023-08-29,city_Customer_220,O00598,2024-03-18,Credit Card
+C0220,Customer_220,2023-08-29,city_Customer_220,O00721,2024-10-20,Debit Card
+C0220,Customer_220,2023-08-29,city_Customer_220,O01112,2024-02-03,Debit Card
+C0221,Customer_221,2023-08-25,city_Customer_221,O00564,2024-10-15,Upi
+C0222,Customer_222,2024-05-20,city_Customer_222,O00554,2025-04-24,Upi
+C0222,Customer_222,2024-05-20,city_Customer_222,O00607,2025-03-31,Credit Card
+C0222,Customer_222,2024-05-20,city_Customer_222,O00652,2024-10-03,Debit Card
+C0222,Customer_222,2024-05-20,city_Customer_222,O01042,2024-05-10,Cash On Delivery
+C0222,Customer_222,2024-05-20,city_Customer_222,O01078,2025-03-15,Cash On Delivery
+C0222,Customer_222,2024-05-20,city_Customer_222,O01169,2024-07-30,Upi
+C0224,Customer_224,2025-02-24,city_Customer_224,O00736,2024-10-11,Debit Card
+C0225,Customer_224,2024-10-20,city_Customer_224,O01019,2024-07-06,Cash On Delivery
+C0225,Customer_224,2024-10-20,city_Customer_224,O01061,2024-06-23,Cash On Delivery
+C0227,Customer_227,2025-01-31,city_Customer_227,O00314,2024-05-23,Upi
+C0227,Customer_227,2025-01-31,city_Customer_227,O00378,2025-03-17,Upi
+C0227,Customer_227,2025-01-31,city_Customer_227,O01129,2024-03-23,Debit Card
+C0228,Customer_228,2024-08-04,city_Customer_228,O00963,2024-08-18,Unknown
+C0229,Customer_229,2023-03-04,city_Customer_229,O00601,2024-12-01,Upi
+C0229,Customer_229,2023-03-04,city_Customer_229,O00840,2024-02-01,Debit Card
+C0229,Customer_229,2023-03-04,city_Customer_229,O01189,2024-04-12,Upi
+C0230,Customer_230,2023-04-12,city_Customer_230,O01128,2024-08-05,Upi
+C0230,Customer_230,2023-04-12,city_Customer_230,O01157,2024-02-22,Upi
+C0232,Customer_232,2023-10-20,city_Customer_232,O00381,2024-10-04,Upi
+C0232,Customer_232,2023-10-20,city_Customer_232,O00742,2024-12-07,Cash
+C0233,Customer_233,2025-02-24,city_Customer_233,O00179,2024-03-16,Unknown
+C0233,Customer_233,2025-02-24,city_Customer_233,O00286,2025-03-15,Credit Card
+C0233,Customer_233,2025-02-24,city_Customer_233,O00377,2024-04-02,Upi
+C0233,Customer_233,2025-02-24,city_Customer_233,O00610,2024-10-23,Upi
+C0233,Customer_233,2025-02-24,city_Customer_233,O00873,2024-01-09,Unknown
+C0233,Customer_233,2025-02-24,city_Customer_233,O00993,2024-01-07,Cash On Delivery
+C0233,Customer_233,2025-02-24,city_Customer_233,O01013,2024-04-16,Cash
+C0235,Customer_235,2024-04-29,city_Customer_235,O00238,2024-02-20,Cash
+C0235,Customer_235,2024-04-29,city_Customer_235,O00634,2024-02-14,Credit Card
+C0235,Customer_235,2024-04-29,city_Customer_235,O00939,2024-06-08,Unknown
+C0235,Customer_235,2024-04-29,city_Customer_235,O00948,2025-01-05,Credit Card
+C0237,Customer_237,2023-10-03,city_Customer_237,O00811,2024-05-10,Cash
+C0238,Customer_238,2023-03-18,city_Customer_238,O00559,2025-01-14,Cash On Delivery
+C0238,Customer_238,2023-03-18,city_Customer_238,O01133,2024-11-30,Unknown
+C0239,Customer_239,2025-02-04,city_Customer_239,O00095,2024-07-22,Debit Card
+C0239,Customer_239,2025-02-04,city_Customer_239,O00596,2025-03-23,Cash
+C0240,Customer_240,2023-05-16,city_Customer_240,O00022,2024-05-04,Cash
+C0240,Customer_240,2023-05-16,city_Customer_240,O00638,2024-05-04,Upi
+C0240,Customer_240,2023-05-16,city_Customer_240,O00870,2025-01-30,Credit Card
+C0241,Customer_241,2024-06-04,city_Customer_241,O00520,2025-02-26,Cash On Delivery
+C0241,Customer_241,2024-06-04,city_Customer_241,O00851,2024-05-24,Unknown
+C0242,Customer_242,2024-12-21,city_Customer_242,O00321,2024-05-10,Credit Card
+C0242,Customer_242,2024-12-21,city_Customer_242,O00720,2024-10-22,Cash On Delivery
+C0243,Customer_243,2025-06-16,city_Customer_243,O00196,2025-05-01,Debit Card
+C0243,Customer_243,2025-06-16,city_Customer_243,O00657,2025-03-25,Upi
+C0243,Customer_243,2025-06-16,city_Customer_243,O00902,2024-07-29,Debit Card
+C0243,Customer_243,2025-06-16,city_Customer_243,O00957,2024-03-18,Credit Card
+C0243,Customer_243,2025-06-16,city_Customer_243,O01034,2024-02-10,Credit Card
+C0243,Customer_243,2025-06-16,city_Customer_243,O01151,2024-12-08,Debit Card
+C0243,Customer_243,2025-06-16,city_Customer_243,O01171,2025-04-18,Credit Card
+C0245,Customer_244,2024-11-28,city_Customer_244,O00173,2024-12-25,Upi
+C0245,Customer_244,2024-11-28,city_Customer_244,O00210,2024-06-14,Cash
+C0245,Customer_244,2024-11-28,city_Customer_244,O00528,2024-12-10,Credit Card
+C0245,Customer_244,2024-11-28,city_Customer_244,O00796,2025-03-11,Upi
+C0245,Customer_244,2024-11-28,city_Customer_244,O00885,2025-02-27,Credit Card
+C0246,Customer_246,2025-01-14,city_Customer_246,O00394,2024-07-09,Cash
+C0246,Customer_246,2025-01-14,city_Customer_246,O00656,2024-04-11,Unknown
+C0246,Customer_246,2025-01-14,city_Customer_246,O00862,2024-09-24,Cash
+C0246,Customer_246,2025-01-14,city_Customer_246,O00998,2024-10-03,Cash
+C0247,Customer_247,2024-01-21,city_Customer_247,O00329,2024-06-19,Upi
+C0247,Customer_247,2024-01-21,city_Customer_247,O00946,2025-01-19,Cash On Delivery
+C0248,Customer_248,2023-01-02,city_Customer_248,O00443,2025-01-10,Credit Card
+C0248,Customer_248,2023-01-02,city_Customer_248,O00690,2024-05-29,Upi
+C0249,Customer_249,2025-05-09,city_Customer_249,O00207,2024-06-19,Credit Card
+C0250,Customer_250,2024-12-31,city_Customer_250,O00428,2025-02-18,Cash
+C0250,Customer_250,2024-12-31,city_Customer_250,O00451,2024-02-11,Debit Card
+C0250,Customer_250,2024-12-31,city_Customer_250,O01071,2024-03-23,Cash On Delivery
+C0251,Customer_250,2023-10-24,city_Customer_250,O00311,2024-12-14,Upi
+C0251,Customer_250,2023-10-24,city_Customer_250,O00817,2025-04-25,Upi
+C0251,Customer_250,2023-10-24,city_Customer_250,O00994,2025-02-22,Upi
+C0251,Customer_250,2023-10-24,city_Customer_250,O01180,2024-12-17,Credit Card
+C0252,Customer_252,2024-02-07,city_Customer_252,O00639,2024-02-07,Cash
+C0252,Customer_252,2024-02-07,city_Customer_252,O00676,2024-08-20,Debit Card
+C0252,Customer_252,2024-02-07,city_Customer_252,O01043,2024-04-11,Credit Card
+C0253,Customer_253,2023-03-20,city_Customer_253,O00030,2024-09-12,Upi
+C0253,Customer_253,2023-03-20,city_Customer_253,O00101,2024-01-23,Cash
+C0253,Customer_253,2023-03-20,city_Customer_253,O00288,2024-07-25,Credit Card
+C0254,Customer_254,2025-02-12,city_Customer_254,O00983,2024-01-15,Unknown
+C0255,Customer_255,2023-10-15,city_Customer_255,O00161,2024-04-05,Cash
+C0255,Customer_255,2023-10-15,city_Customer_255,O00416,2024-08-23,Upi
+C0255,Customer_255,2023-10-15,city_Customer_255,O00845,2025-04-10,Debit Card
+C0255,Customer_255,2023-10-15,city_Customer_255,O00919,2024-12-26,Credit Card
+C0256,Customer_256,2023-10-20,city_Customer_256,O00187,2025-03-21,Upi
+C0256,Customer_256,2023-10-20,city_Customer_256,O00265,2024-04-24,Credit Card
+C0257,Customer_257,2023-09-13,city_Customer_257,O00021,2024-11-07,Credit Card
+C0257,Customer_257,2023-09-13,city_Customer_257,O00170,2024-10-11,Upi
+C0258,Customer_258,2024-06-07,city_Customer_258,O00041,2024-10-10,Debit Card
+C0258,Customer_258,2024-06-07,city_Customer_258,O00344,2024-11-30,Upi
+C0258,Customer_258,2024-06-07,city_Customer_258,O00762,2024-09-17,Credit Card
+C0259,Customer_259,2025-03-14,city_Customer_259,O00433,2025-01-07,Cash
+C0259,Customer_259,2025-03-14,city_Customer_259,O00540,2024-01-10,Credit Card
+C0259,Customer_259,2025-03-14,city_Customer_259,O00806,2025-07-02,Cash
+C0260,Customer_260,2025-04-11,city_Customer_260,O00996,2024-09-15,Cash
+C0260,Customer_260,2025-04-11,city_Customer_260,O01197,2024-04-09,Unknown
+C0261,Customer_261,2025-06-15,city_Customer_261,O00108,2025-03-07,Cash
+C0261,Customer_261,2025-06-15,city_Customer_261,O00308,2025-04-18,Cash
+C0261,Customer_261,2025-06-15,city_Customer_261,O00398,2024-06-30,Unknown
+C0263,Customer_263,2025-01-19,city_Customer_263,O00549,2024-06-29,Cash On Delivery
+C0265,Customer_265,2024-05-12,city_Customer_265,O00056,2025-03-17,Credit Card
+C0265,Customer_265,2024-05-12,city_Customer_265,O00886,2024-06-11,Unknown
+C0265,Customer_265,2024-05-12,city_Customer_265,O00931,2024-06-19,Upi
+C0266,Customer_265,2023-05-11,city_Customer_265,O00709,2024-08-18,Upi
+C0266,Customer_265,2023-05-11,city_Customer_265,O01120,2025-02-21,Upi
+C0267,Customer_267,2023-12-18,city_Customer_267,O00819,2024-08-08,Upi
+C0268,Customer_268,2025-01-26,city_Customer_268,O00172,2024-01-10,Unknown
+C0268,Customer_268,2025-01-26,city_Customer_268,O00287,2024-01-11,Cash
+C0268,Customer_268,2025-01-26,city_Customer_268,O00320,2024-03-30,Credit Card
+C0270,Customer_270,2023-11-05,city_Customer_270,O00849,2025-03-21,Upi
+C0271,Customer_271,2024-02-08,city_Customer_271,O00341,2024-02-25,Unknown
+C0271,Customer_271,2024-02-08,city_Customer_271,O00635,2024-01-16,Cash On Delivery
+C0271,Customer_271,2024-02-08,city_Customer_271,O00932,2024-03-24,Upi
+C0272,Customer_272,2023-06-15,city_Customer_272,O00004,2024-02-25,Debit Card
+C0272,Customer_272,2023-06-15,city_Customer_272,O00524,2024-05-14,Cash
+C0272,Customer_272,2023-06-15,city_Customer_272,O00711,2024-05-04,Upi
+C0272,Customer_272,2023-06-15,city_Customer_272,O00750,2024-04-13,Debit Card
+C0272,Customer_272,2023-06-15,city_Customer_272,O00864,2024-08-27,Credit Card
+C0272,Customer_272,2023-06-15,city_Customer_272,O00926,2025-04-06,Credit Card
+C0273,Customer_273,2025-04-11,city_Customer_273,O00193,2025-04-14,Debit Card
+C0273,Customer_273,2025-04-11,city_Customer_273,O00522,2024-11-09,Cash
+C0273,Customer_273,2025-04-11,city_Customer_273,O00912,2024-02-27,Credit Card
+C0273,Customer_273,2025-04-11,city_Customer_273,O01153,2024-01-26,Upi
+C0274,Customer_274,2024-04-08,city_Customer_274,O00506,2024-06-01,Upi
+C0274,Customer_274,2024-04-08,city_Customer_274,O00703,2024-02-27,Unknown
+C0274,Customer_274,2024-04-08,city_Customer_274,O01158,2024-10-26,Cash
+C0276,Customer_276,2023-09-07,city_Customer_276,O00219,2025-02-05,Credit Card
+C0276,Customer_276,2023-09-07,city_Customer_276,O01101,2025-04-07,Upi
+C0277,Customer_277,2024-07-23,city_Customer_277,O00290,2025-11-01,Upi
+C0278,Customer_278,2024-01-13,city_Customer_278,O00303,2025-04-12,Credit Card
+C0278,Customer_278,2024-01-13,city_Customer_278,O00667,2024-04-05,Unknown
+C0278,Customer_278,2024-01-13,city_Customer_278,O00671,2024-06-19,Cash
+C0278,Customer_278,2024-01-13,city_Customer_278,O00882,2024-04-25,Upi
+C0279,Customer_279,2023-07-26,city_Customer_279,O00079,2025-02-05,Cash
+C0279,Customer_279,2023-07-26,city_Customer_279,O00699,2024-07-06,Credit Card
+C0279,Customer_279,2023-07-26,city_Customer_279,O00923,2024-01-15,Upi
+C0280,Customer_280,2025-06-10,city_Customer_280,O00418,2024-07-15,Upi
+C0280,Customer_280,2025-06-10,city_Customer_280,O00726,2024-11-07,Credit Card
+C0280,Customer_280,2025-06-10,city_Customer_280,O01038,2025-04-03,Upi
+C0281,Customer_281,2025-02-02,city_Customer_281,O00088,2025-05-14,Unknown
+C0281,Customer_281,2025-02-02,city_Customer_281,O00154,2024-03-30,Credit Card
+C0281,Customer_281,2025-02-02,city_Customer_281,O00202,2024-05-04,Upi
+C0281,Customer_281,2025-02-02,city_Customer_281,O00462,2024-08-03,Upi
+C0281,Customer_281,2025-02-02,city_Customer_281,O00828,2025-04-16,Credit Card
+C0282,Customer_282,2023-10-04,city_Customer_282,O00534,2024-07-21,Unknown
+C0282,Customer_282,2023-10-04,city_Customer_282,O01104,2025-03-15,Unknown
+C0283,Customer_283,2024-05-25,city_Customer_283,O00260,2024-03-27,Debit Card
+C0283,Customer_283,2024-05-25,city_Customer_283,O01031,2024-04-29,Credit Card
+C0283,Customer_283,2024-05-25,city_Customer_283,O01070,2025-01-04,Debit Card
+C0284,Customer_284,2023-05-09,city_Customer_284,O00299,2024-03-31,Cash
+C0285,Customer_285,2024-10-06,city_Customer_285,O00693,2024-06-14,Unknown
+C0285,Customer_285,2024-10-06,city_Customer_285,O00835,2024-11-15,Credit Card
+C0285,Customer_285,2024-10-06,city_Customer_285,O01113,2025-04-02,Credit Card
+C0286,Customer_286,2023-04-05,city_Customer_286,O00279,2024-12-06,Cash
+C0286,Customer_286,2023-04-05,city_Customer_286,O00967,2024-03-09,Credit Card
+C0288,Customer_288,2024-03-18,city_Customer_288,O01154,2024-06-09,Upi
+C0289,Customer_289,2023-05-11,city_Customer_289,O00158,2025-03-07,Unknown
+C0291,Customer_291,2024-08-24,city_Customer_291,O00040,2024-10-08,Cash On Delivery
+C0292,Customer_292,2024-02-05,city_Customer_292,O00821,2025-01-20,Credit Card
+C0293,Customer_293,2025-05-25,city_Customer_293,O00875,2024-08-12,Credit Card
+C0294,Customer_294,2023-09-12,city_Customer_294,O00032,2024-06-12,Unknown
+C0294,Customer_294,2023-09-12,city_Customer_294,O00059,2024-10-17,Upi
+C0294,Customer_294,2023-09-12,city_Customer_294,O00222,2024-07-22,Credit Card
+C0294,Customer_294,2023-09-12,city_Customer_294,O00648,2024-09-26,Upi
+C0294,Customer_294,2023-09-12,city_Customer_294,O01183,2024-03-03,Credit Card
+C0295,Customer_295,2023-06-08,city_Customer_295,O00203,2025-05-03,Credit Card
+C0295,Customer_295,2023-06-08,city_Customer_295,O00225,2025-05-01,Debit Card
+C0297,Customer_297,2024-12-18,city_Customer_297,O00338,2024-03-27,Upi
+C0298,Customer_298,2023-03-29,city_Customer_298,O00546,2024-12-11,Upi
+C0298,Customer_298,2023-03-29,city_Customer_298,O00606,2024-07-09,Upi
+C0298,Customer_298,2023-03-29,city_Customer_298,O00949,2024-04-18,Unknown
+C0298,Customer_298,2023-03-29,city_Customer_298,O01124,2024-06-24,Credit Card
+C0299,Customer_299,2023-01-02,city_Customer_299,O00582,2024-04-12,Credit Card
+C0300,Customer_300,2024-08-06,city_Customer_300,O00042,2024-06-30,Cash On Delivery
+C0300,Customer_300,2024-08-06,city_Customer_300,O00080,2024-05-23,Cash
+C0300,Customer_300,2024-08-06,city_Customer_300,O00918,2025-03-03,Credit Card
+C0301,Customer_301,2025-01-02,city_Customer_301,O00201,2025-04-13,Debit Card
+C0301,Customer_301,2025-01-02,city_Customer_301,O00805,2024-08-14,Credit Card
+C0303,Customer_303,2024-03-23,city_Customer_303,O00147,2024-06-23,Credit Card
+C0303,Customer_303,2024-03-23,city_Customer_303,O00212,2024-01-30,Credit Card
+C0303,Customer_303,2024-03-23,city_Customer_303,O00548,2025-11-05,Cash On Delivery
+C0303,Customer_303,2024-03-23,city_Customer_303,O00798,2024-03-16,Cash
+C0305,Customer_305,2024-08-19,city_Customer_305,O00285,2025-01-05,Credit Card
+C0305,Customer_305,2024-08-19,city_Customer_305,O00370,2024-10-16,Cash On Delivery
+C0306,Customer_306,2023-08-17,city_Customer_306,O00479,2025-03-26,Credit Card
+C0306,Customer_306,2023-08-17,city_Customer_306,O00571,2024-11-10,Cash On Delivery
+C0307,Customer_307,2023-01-11,city_Customer_307,O00328,2024-03-09,Credit Card
+C0307,Customer_307,2023-01-11,city_Customer_307,O00355,2024-11-04,Upi
+C0307,Customer_307,2023-01-11,city_Customer_307,O00372,2025-03-19,Upi
+C0308,Customer_308,2023-10-13,city_Customer_308,O00234,2025-04-16,Debit Card
+C0308,Customer_308,2023-10-13,city_Customer_308,O00481,2024-05-24,Cash
+C0308,Customer_308,2023-10-13,city_Customer_308,O00898,2025-02-17,Upi
+C0308,Customer_308,2023-10-13,city_Customer_308,O00969,2024-12-02,Cash
+C0308,Customer_308,2023-10-13,city_Customer_308,O01148,2024-05-30,Credit Card
+C0309,Customer_309,2025-05-09,city_Customer_309,O00395,2024-01-23,Cash
+C0309,Customer_309,2025-05-09,city_Customer_309,O00538,2024-09-23,Credit Card
+C0309,Customer_309,2025-05-09,city_Customer_309,O00633,2025-02-09,Credit Card
+C0309,Customer_309,2025-05-09,city_Customer_309,O00991,2024-07-10,Cash
+C0309,Customer_309,2025-05-09,city_Customer_309,O01039,2025-04-28,Unknown
+C0310,Customer_310,2024-06-22,city_Customer_310,O00431,2025-04-20,Upi
+C0310,Customer_310,2024-06-22,city_Customer_310,O00533,2024-08-19,Upi
+C0311,Customer_311,2023-01-30,city_Customer_311,O00017,2025-03-13,Upi
+C0311,Customer_311,2023-01-30,city_Customer_311,O00267,2024-08-02,Debit Card
+C0311,Customer_311,2023-01-30,city_Customer_311,O00625,2024-03-17,Upi
+C0311,Customer_311,2023-01-30,city_Customer_311,O00641,2024-06-24,Unknown
+C0311,Customer_311,2023-01-30,city_Customer_311,O01045,2024-06-07,Credit Card
+C0312,Customer_312,2024-10-27,city_Customer_312,O00229,2025-02-15,Cash On Delivery
+C0312,Customer_312,2024-10-27,city_Customer_312,O00825,2024-02-09,Upi
+C0312,Customer_312,2024-10-27,city_Customer_312,O00876,2025-01-18,Credit Card
+C0313,Customer_313,2023-07-18,city_Customer_313,O00574,2024-04-13,Upi
+C0313,Customer_313,2023-07-18,city_Customer_313,O00661,2024-03-01,Unknown
+C0313,Customer_313,2023-07-18,city_Customer_313,O00681,2024-12-04,Cash On Delivery
+C0313,Customer_313,2023-07-18,city_Customer_313,O00710,2024-06-30,Cash
+C0313,Customer_313,2023-07-18,city_Customer_313,O01181,2024-09-08,Upi
+C0315,Customer_315,2023-08-22,city_Customer_315,O00713,2024-03-25,Credit Card
+C0316,Customer_316,2023-08-21,city_Customer_316,O00673,2024-12-09,Credit Card
+C0316,Customer_316,2023-08-21,city_Customer_316,O01179,2024-02-07,Unknown
+C0317,Customer_317,2023-12-13,city_Customer_317,O00091,2024-11-06,Cash On Delivery
+C0317,Customer_317,2023-12-13,city_Customer_317,O00727,2024-02-18,Upi
+C0318,Customer_318,2024-11-29,city_Customer_318,O01009,2024-11-22,Unknown
+C0319,Customer_319,2025-03-27,city_Customer_319,O00411,2025-04-02,Upi
+C0319,Customer_319,2025-03-27,city_Customer_319,O00951,2024-05-12,Credit Card
+C0319,Customer_319,2025-03-27,city_Customer_319,O01008,2025-02-14,Cash On Delivery
+C0319,Customer_319,2025-03-27,city_Customer_319,O01074,2024-04-26,Upi
+C0320,Customer_320,2023-03-11,city_Customer_320,O00697,2025-04-09,Debit Card
+C0320,Customer_320,2023-03-11,city_Customer_320,O00837,2024-04-12,Credit Card
+C0321,Customer_321,2023-11-16,city_Customer_321,O00985,2024-03-29,Cash
+C0321,Customer_321,2023-11-16,city_Customer_321,O01132,2024-12-15,Cash On Delivery
+C0322,Customer_322,2023-08-25,city_Customer_322,O00579,2024-01-05,Upi
+C0322,Customer_322,2023-08-25,city_Customer_322,O01143,2025-01-29,Cash
+C0323,Customer_323,2025-02-17,city_Customer_323,O00705,2024-01-23,Debit Card
+C0323,Customer_323,2025-02-17,city_Customer_323,O00916,2024-03-30,Upi
+C0324,Customer_324,2024-09-30,city_Customer_324,O00075,2024-07-07,Unknown
+C0324,Customer_324,2024-09-30,city_Customer_324,O01047,2024-03-04,Debit Card
+C0324,Customer_324,2024-09-30,city_Customer_324,O01100,2025-03-04,Credit Card
+C0325,Customer_325,2023-08-17,city_Customer_325,O00453,2024-10-15,Cash
+C0326,Customer_326,2023-02-27,city_Customer_326,O00990,2025-02-23,Cash
+C0327,Customer_327,2024-02-07,city_Customer_327,O00113,2024-10-16,Upi
+C0327,Customer_327,2024-02-07,city_Customer_327,O00312,2024-04-17,Upi
+C0327,Customer_327,2024-02-07,city_Customer_327,O01010,2025-05-04,Debit Card
+C0328,Customer_328,2024-09-02,city_Customer_328,O00350,2024-04-27,Credit Card
+C0328,Customer_328,2024-09-02,city_Customer_328,O00483,2024-12-15,Unknown
+C0328,Customer_328,2024-09-02,city_Customer_328,O00930,2024-05-29,Unknown
+C0329,Customer_329,2024-12-27,city_Customer_329,O00015,2024-02-09,Cash On Delivery
+C0329,Customer_329,2024-12-27,city_Customer_329,O00096,2024-09-01,Credit Card
+C0329,Customer_329,2024-12-27,city_Customer_329,O00165,2025-02-02,Cash On Delivery
+C0329,Customer_329,2024-12-27,city_Customer_329,O00293,2024-04-06,Upi
+C0329,Customer_329,2024-12-27,city_Customer_329,O00568,2024-06-20,Upi
+C0329,Customer_329,2024-12-27,city_Customer_329,O00700,2025-04-20,Cash On Delivery
+C0330,Customer_330,2024-04-05,city_Customer_330,O00085,2024-05-14,Cash On Delivery
+C0330,Customer_330,2024-04-05,city_Customer_330,O00227,2024-01-04,Unknown
+C0330,Customer_330,2024-04-05,city_Customer_330,O00530,2024-07-14,Cash On Delivery
+C0331,Customer_331,2025-01-20,city_Customer_331,O00427,2025-03-28,Cash
+C0332,Customer_332,2023-06-19,city_Customer_332,O00543,2024-05-10,Debit Card
+C0332,Customer_332,2023-06-19,city_Customer_332,O00787,2024-02-24,Cash On Delivery
+C0333,Customer_333,2024-10-30,city_Customer_333,O00186,2024-09-21,Cash
+C0333,Customer_333,2024-10-30,city_Customer_333,O00337,2024-08-15,Cash
+C0333,Customer_333,2024-10-30,city_Customer_333,O00628,2024-08-27,Credit Card
+C0334,Customer_334,2024-04-23,city_Customer_334,O00232,2024-04-14,Upi
+C0334,Customer_334,2024-04-23,city_Customer_334,O00809,2024-05-20,Upi
+C0334,Customer_334,2024-04-23,city_Customer_334,O01086,2024-07-19,Debit Card
+C0335,Customer_334,2025-01-12,city_Customer_334,O00349,2024-07-13,Cash
+C0335,Customer_334,2025-01-12,city_Customer_334,O01102,2024-06-11,Debit Card
+C0337,Customer_337,2023-01-03,city_Customer_337,O01022,2024-09-20,Credit Card
+C0338,Customer_338,2023-12-26,city_Customer_338,O00552,2025-03-16,Upi
+C0338,Customer_338,2023-12-26,city_Customer_338,O00743,2024-02-12,Upi
+C0339,Customer_339,2024-07-28,city_Customer_339,O00045,2024-08-04,Debit Card
+C0339,Customer_339,2024-07-28,city_Customer_339,O00231,2024-06-14,Credit Card
+C0339,Customer_339,2024-07-28,city_Customer_339,O00459,2024-04-27,Debit Card
+C0339,Customer_339,2024-07-28,city_Customer_339,O00561,2025-01-28,Unknown
+C0339,Customer_339,2024-07-28,city_Customer_339,O00735,2024-09-28,Credit Card
+C0339,Customer_339,2024-07-28,city_Customer_339,O01192,2024-04-23,Cash On Delivery
+C0340,Customer_340,2024-01-25,city_Customer_340,O00133,2024-04-23,Upi
+C0340,Customer_340,2024-01-25,city_Customer_340,O00413,2024-10-22,Cash On Delivery
+C0340,Customer_340,2024-01-25,city_Customer_340,O00624,2024-01-03,Unknown
+C0340,Customer_340,2024-01-25,city_Customer_340,O00947,2025-01-05,Upi
+C0342,Customer_342,2023-02-20,city_Customer_342,O00043,2024-09-14,Cash
+C0342,Customer_342,2023-02-20,city_Customer_342,O01099,2025-06-05,Credit Card
+C0343,Customer_343,2024-01-17,city_Customer_343,O00138,2025-02-15,Debit Card
+C0343,Customer_343,2024-01-17,city_Customer_343,O00426,2024-01-31,Cash
+C0344,Customer_344,2023-07-17,city_Customer_344,O00275,2024-07-25,Upi
+C0344,Customer_344,2023-07-17,city_Customer_344,O00492,2025-04-03,Credit Card
+C0344,Customer_344,2023-07-17,city_Customer_344,O01054,2024-06-29,Cash On Delivery
+C0344,Customer_344,2023-07-17,city_Customer_344,O01185,2024-01-25,Credit Card
+C0345,Customer_345,2024-04-30,city_Customer_345,O00716,2024-06-28,Credit Card
+C0345,Customer_345,2024-04-30,city_Customer_345,O01103,2024-03-22,Unknown
+C0346,Customer_345,2023-09-11,city_Customer_345,O00815,2024-07-06,Upi
+C0347,Customer_347,2023-02-11,city_Customer_347,O00183,2024-07-24,Cash
+C0347,Customer_347,2023-02-11,city_Customer_347,O01178,2024-11-28,Cash On Delivery
+C0348,Customer_348,2023-03-06,city_Customer_348,O00131,2024-06-14,Unknown
+C0348,Customer_348,2023-03-06,city_Customer_348,O00660,2024-12-05,Cash On Delivery
+C0348,Customer_348,2023-03-06,city_Customer_348,O00953,2025-02-27,Debit Card
+C0349,Customer_349,2023-09-21,city_Customer_349,O00316,2024-12-20,Unknown
+C0349,Customer_349,2023-09-21,city_Customer_349,O01003,2024-07-03,Upi
+C0349,Customer_349,2023-09-21,city_Customer_349,O01033,2025-04-07,Credit Card
+C0350,Customer_350,2024-09-12,city_Customer_350,O00039,2024-08-30,Credit Card
+C0350,Customer_350,2024-09-12,city_Customer_350,O00424,2025-01-13,Credit Card
+C0350,Customer_350,2024-09-12,city_Customer_350,O00715,2024-07-23,Unknown
+C0350,Customer_350,2024-09-12,city_Customer_350,O00822,2024-05-11,Upi
+C0350,Customer_350,2024-09-12,city_Customer_350,O00935,2024-09-13,Credit Card
+C0351,Customer_351,2023-12-10,city_Customer_351,O00519,2024-10-30,Cash On Delivery
+C0351,Customer_351,2023-12-10,city_Customer_351,O00832,2024-06-14,Upi
+C0352,Customer_352,2023-02-14,city_Customer_352,O00245,2025-02-24,Cash On Delivery
+C0353,Customer_353,2024-12-07,city_Customer_353,O00278,2024-01-05,Upi
+C0353,Customer_353,2024-12-07,city_Customer_353,O00458,2024-10-02,Credit Card
+C0353,Customer_353,2024-12-07,city_Customer_353,O00471,2025-06-04,Unknown
+C0354,Customer_354,2023-11-01,city_Customer_354,O00104,2024-05-23,Upi
+C0356,Customer_356,2023-01-25,city_Customer_356,O00089,2024-09-30,Unknown
+C0358,Customer_358,2025-03-05,city_Customer_358,O00262,2024-08-04,Cash On Delivery
+C0358,Customer_358,2025-03-05,city_Customer_358,O00315,2025-04-29,Unknown
+C0358,Customer_358,2025-03-05,city_Customer_358,O00501,2025-05-11,Credit Card
+C0358,Customer_358,2025-03-05,city_Customer_358,O00651,2024-10-25,Unknown
+C0359,Customer_359,2024-03-16,city_Customer_359,O00425,2025-03-22,Cash On Delivery
+C0360,Customer_360,2024-05-23,city_Customer_360,O00174,2025-03-21,Credit Card
+C0360,Customer_360,2024-05-23,city_Customer_360,O00237,2024-08-19,Upi
+C0360,Customer_360,2024-05-23,city_Customer_360,O00300,2025-04-04,Upi
+C0360,Customer_360,2024-05-23,city_Customer_360,O00474,2024-01-31,Cash On Delivery
+C0360,Customer_360,2024-05-23,city_Customer_360,O01089,2024-11-16,Upi
+C0361,Customer_361,2023-11-07,city_Customer_361,O00677,2024-12-12,Cash On Delivery
+C0361,Customer_361,2023-11-07,city_Customer_361,O00795,2024-12-12,Upi
+C0361,Customer_361,2023-11-07,city_Customer_361,O01011,2024-10-20,Upi
+C0361,Customer_361,2023-11-07,city_Customer_361,O01052,2024-12-25,Upi
+C0361,Customer_361,2023-11-07,city_Customer_361,O01119,2024-11-22,Credit Card
+C0362,Customer_362,2024-09-13,city_Customer_362,O00226,2024-07-19,Cash On Delivery
+C0362,Customer_362,2024-09-13,city_Customer_362,O00249,2024-10-18,Upi
+C0363,Customer_363,2024-04-16,city_Customer_363,O00215,2025-01-11,Credit Card
+C0363,Customer_363,2024-04-16,city_Customer_363,O00414,2024-06-09,Cash
+C0363,Customer_363,2024-04-16,city_Customer_363,O00500,2025-05-03,Upi
+C0363,Customer_363,2024-04-16,city_Customer_363,O00763,2024-05-08,Upi
+C0363,Customer_363,2024-04-16,city_Customer_363,O01057,2024-09-17,Cash On Delivery
+C0364,Customer_364,2023-03-22,city_Customer_364,O00521,2024-12-30,Cash On Delivery
+C0364,Customer_364,2023-03-22,city_Customer_364,O00754,2024-11-17,Cash
+C0364,Customer_364,2023-03-22,city_Customer_364,O00755,2024-06-05,Upi
+C0365,Customer_365,2025-02-09,city_Customer_365,O00915,2024-06-25,Cash On Delivery
+C0366,Customer_366,2023-03-08,city_Customer_366,O01018,2024-02-21,Upi
+C0366,Customer_366,2023-03-08,city_Customer_366,O01172,2024-05-03,Unknown
+C0367,Customer_367,2024-07-19,city_Customer_367,O00014,2024-05-05,Debit Card
+C0367,Customer_367,2024-07-19,city_Customer_367,O00457,2025-02-20,Cash On Delivery
+C0369,Customer_369,2023-09-29,city_Customer_369,O00623,2024-03-27,Upi
+C0369,Customer_369,2023-09-29,city_Customer_369,O00728,2024-01-12,Upi
+C0370,Customer_370,2023-04-09,city_Customer_370,O00333,2024-09-06,Upi
+C0370,Customer_370,2023-04-09,city_Customer_370,O00410,2024-06-17,Credit Card
+C0370,Customer_370,2023-04-09,city_Customer_370,O00485,2024-01-24,Credit Card
+C0371,Customer_371,2024-04-02,city_Customer_371,O01026,2024-01-28,Credit Card
+C0371,Customer_371,2024-04-02,city_Customer_371,O01097,2024-07-31,Credit Card
+C0372,Customer_372,2024-03-02,city_Customer_372,O00099,2024-10-22,Cash
+C0372,Customer_372,2024-03-02,city_Customer_372,O00274,2024-02-28,Cash On Delivery
+C0372,Customer_372,2024-03-02,city_Customer_372,O00422,2025-09-02,Credit Card
+C0372,Customer_372,2024-03-02,city_Customer_372,O01014,2025-04-19,Upi
+C0372,Customer_372,2024-03-02,city_Customer_372,O01069,2025-02-18,Upi
+C0373,Customer_373,2023-08-29,city_Customer_373,O00615,2024-04-01,Debit Card
+C0373,Customer_373,2023-08-29,city_Customer_373,O00759,2025-02-02,Unknown
+C0373,Customer_373,2023-08-29,city_Customer_373,O00842,2024-10-04,Credit Card
+C0374,Customer_374,2025-02-16,city_Customer_374,O00188,2024-02-25,Credit Card
+C0374,Customer_374,2025-02-16,city_Customer_374,O00871,2024-03-15,Cash
+C0374,Customer_374,2025-02-16,city_Customer_374,O01191,2024-06-20,Debit Card
+C0375,Customer_375,2023-10-28,city_Customer_375,O00577,2025-04-21,Credit Card
+C0375,Customer_375,2023-10-28,city_Customer_375,O00650,2025-06-02,Upi
+C0375,Customer_375,2023-10-28,city_Customer_375,O00848,2024-05-03,Unknown
+C0375,Customer_375,2023-10-28,city_Customer_375,O01060,2024-12-13,Cash
+C0376,Customer_376,2024-01-17,city_Customer_376,O00243,2025-05-15,Debit Card
+C0377,Customer_377,2023-07-23,city_Customer_377,O00283,2024-06-29,Cash On Delivery
+C0377,Customer_377,2023-07-23,city_Customer_377,O00347,2024-04-05,Credit Card
+C0377,Customer_377,2023-07-23,city_Customer_377,O00797,2024-05-20,Debit Card
+C0378,Customer_378,2023-09-09,city_Customer_378,O00055,2025-03-22,Debit Card
+C0378,Customer_378,2023-09-09,city_Customer_378,O00371,2024-09-03,Credit Card
+C0379,Customer_379,2024-08-15,city_Customer_379,O00351,2025-04-03,Credit Card
+C0379,Customer_379,2024-08-15,city_Customer_379,O00920,2025-01-27,Debit Card
+C0380,Customer_380,2024-02-10,city_Customer_380,O00539,2024-09-24,Cash On Delivery
+C0380,Customer_380,2024-02-10,city_Customer_380,O00844,2024-07-06,Upi
+C0380,Customer_380,2024-02-10,city_Customer_380,O00909,2025-01-11,Cash
+C0382,Customer_382,2025-04-07,city_Customer_382,O00551,2024-02-02,Credit Card
+C0383,Customer_383,2023-02-07,city_Customer_383,O00128,2025-03-31,Credit Card
+C0384,Customer_384,2025-04-18,city_Customer_384,O00033,2024-06-08,Upi
+C0384,Customer_384,2025-04-18,city_Customer_384,O00622,2025-01-07,Credit Card
+C0385,Customer_385,2024-01-18,city_Customer_385,O00532,2024-02-22,Cash
+C0385,Customer_385,2024-01-18,city_Customer_385,O00670,2025-02-25,Cash On Delivery
+C0386,Customer_385,2023-08-27,city_Customer_385,O00012,2024-12-17,Cash On Delivery
+C0386,Customer_385,2023-08-27,city_Customer_385,O00284,2024-11-18,Credit Card
+C0387,Customer_387,2024-09-06,city_Customer_387,O00230,2024-10-24,Upi
+C0387,Customer_387,2024-09-06,city_Customer_387,O00513,2024-05-03,Upi
+C0387,Customer_387,2024-09-06,city_Customer_387,O00685,2024-08-17,Credit Card
+C0389,Customer_389,2024-06-08,city_Customer_389,O00124,2024-03-27,Credit Card
+C0389,Customer_389,2024-06-08,city_Customer_389,O00224,2025-12-03,Unknown
+C0389,Customer_389,2024-06-08,city_Customer_389,O00659,2024-07-26,Credit Card
+C0389,Customer_389,2024-06-08,city_Customer_389,O00767,2024-01-15,Upi
+C0389,Customer_389,2024-06-08,city_Customer_389,O01140,2025-05-06,Credit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00228,2024-08-15,Credit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00306,2025-01-13,Debit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00573,2025-02-14,Debit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00600,2024-03-20,Debit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00692,2024-09-09,Cash
+C0390,Customer_390,2024-09-09,city_Customer_390,O00846,2025-04-22,Credit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O00910,2024-05-12,Cash
+C0390,Customer_390,2024-09-09,city_Customer_390,O00997,2024-11-08,Credit Card
+C0390,Customer_390,2024-09-09,city_Customer_390,O01098,2025-01-07,Cash On Delivery
+C0391,Customer_391,2023-01-07,city_Customer_391,O00090,2024-04-12,Credit Card
+C0391,Customer_391,2023-01-07,city_Customer_391,O00724,2025-03-25,Credit Card
+C0392,Customer_392,2024-12-27,city_Customer_392,O00772,2025-03-26,Upi
+C0392,Customer_392,2024-12-27,city_Customer_392,O00901,2024-04-02,Debit Card
+C0392,Customer_392,2024-12-27,city_Customer_392,O01196,2024-09-14,Unknown
+C0393,Customer_393,2023-02-08,city_Customer_393,O00208,2025-05-11,Cash On Delivery
+C0393,Customer_393,2023-02-08,city_Customer_393,O00510,2025-05-13,Cash On Delivery
+C0393,Customer_393,2023-02-08,city_Customer_393,O00698,2025-01-02,Credit Card
+C0394,Customer_394,2023-02-15,city_Customer_394,O00725,2024-09-11,Upi
+C0394,Customer_394,2023-02-15,city_Customer_394,O00765,2024-03-23,Credit Card
+C0394,Customer_394,2023-02-15,city_Customer_394,O01159,2024-07-26,Upi
+C0395,Customer_395,2023-02-09,city_Customer_395,O00511,2025-03-27,Credit Card
+C0395,Customer_395,2023-02-09,city_Customer_395,O00801,2024-08-21,Credit Card
+C0395,Customer_395,2023-02-09,city_Customer_395,O00938,2024-05-31,Upi
+C0395,Customer_395,2023-02-09,city_Customer_395,O01142,2024-10-22,Credit Card
+C0396,Customer_396,2023-07-28,city_Customer_396,O00204,2024-04-13,Cash
+C0396,Customer_396,2023-07-28,city_Customer_396,O00887,2024-11-03,Credit Card
+C0397,Customer_397,2024-02-23,city_Customer_397,O00083,2024-12-16,Credit Card
+C0397,Customer_397,2024-02-23,city_Customer_397,O00277,2024-07-04,Debit Card
+C0397,Customer_397,2024-02-23,city_Customer_397,O01067,2024-11-08,Debit Card
+C0397,Customer_397,2024-02-23,city_Customer_397,O01173,2024-07-08,Unknown
+C0398,Customer_398,2024-09-27,city_Customer_398,O00833,2025-02-28,Upi
+C0399,Customer_399,2023-02-02,city_Customer_399,O00236,2024-08-25,Upi
+C0400,Customer_400,2024-05-10,city_Customer_400,O00123,2024-04-03,Unknown
+C0400,Customer_400,2024-05-10,city_Customer_400,O00269,2024-12-11,Credit Card
+C0400,Customer_400,2024-05-10,city_Customer_400,O00741,2024-09-19,Cash On Delivery
+C0401,Customer_401,2025-03-25,city_Customer_401,O00599,2025-05-13,Cash
+C0402,Customer_402,2023-06-08,city_Customer_402,O00006,2024-08-24,Credit Card
+C0402,Customer_402,2023-06-08,city_Customer_402,O00658,2024-05-12,Cash
+C0402,Customer_402,2023-06-08,city_Customer_402,O00689,2024-03-29,Debit Card
+C0403,Customer_403,2024-10-30,city_Customer_403,O00409,2024-04-27,Upi
+C0404,Customer_404,2023-10-05,city_Customer_404,O00702,2024-12-06,Unknown
+C0404,Customer_404,2023-10-05,city_Customer_404,O00971,2024-12-23,Upi
+C0404,Customer_404,2023-10-05,city_Customer_404,O00992,2024-12-07,Upi
+C0405,Customer_405,2024-11-14,city_Customer_405,O00346,2025-03-05,Debit Card
+C0406,Customer_406,2023-11-16,city_Customer_406,O00182,2025-05-11,Cash
+C0406,Customer_406,2023-11-16,city_Customer_406,O00708,2024-09-28,Upi
+C0406,Customer_406,2023-11-16,city_Customer_406,O01093,2024-09-18,Upi
+C0407,Customer_407,2024-02-29,city_Customer_407,O00180,2024-03-25,Cash On Delivery
+C0407,Customer_407,2024-02-29,city_Customer_407,O00954,2024-06-10,Debit Card
+C0408,Customer_408,2024-10-21,city_Customer_408,O00558,2024-09-08,Upi
+C0409,Customer_409,2024-02-19,city_Customer_409,O00297,2024-05-24,Cash On Delivery
+C0409,Customer_409,2024-02-19,city_Customer_409,O00509,2024-04-08,Cash On Delivery
+C0410,Customer_410,2024-03-20,city_Customer_410,O00002,2024-02-01,Upi
+C0411,Customer_411,2023-04-27,city_Customer_411,O00005,2025-04-26,Credit Card
+C0411,Customer_411,2023-04-27,city_Customer_411,O00185,2025-03-09,Upi
+C0411,Customer_411,2023-04-27,city_Customer_411,O00368,2025-05-07,Upi
+C0411,Customer_411,2023-04-27,city_Customer_411,O00908,2025-05-07,Credit Card
+C0412,Customer_412,2024-08-14,city_Customer_412,O00241,2024-08-13,Cash
+C0412,Customer_412,2024-08-14,city_Customer_412,O00783,2024-05-03,Upi
+C0413,Customer_413,2025-03-02,city_Customer_413,O00100,2025-02-03,Credit Card
+C0414,Customer_414,2023-02-22,city_Customer_414,O01053,2024-02-21,Cash On Delivery
+C0415,Customer_415,2025-04-05,city_Customer_415,O00139,2024-02-25,Unknown
+C0415,Customer_415,2025-04-05,city_Customer_415,O00257,2025-02-25,Cash On Delivery
+C0415,Customer_415,2025-04-05,city_Customer_415,O00387,2024-05-01,Cash
+C0415,Customer_415,2025-04-05,city_Customer_415,O01186,2024-03-27,Credit Card
+C0416,Customer_416,2024-08-09,city_Customer_416,O00913,2024-11-11,Upi
+C0417,Customer_417,2025-01-24,city_Customer_417,O00114,2024-07-20,Unknown
+C0417,Customer_417,2025-01-24,city_Customer_417,O00643,2024-01-17,Credit Card
+C0417,Customer_417,2025-01-24,city_Customer_417,O00883,2024-03-31,Cash On Delivery
+C0418,Customer_418,2023-12-23,city_Customer_418,O00505,2025-02-08,Cash
+C0418,Customer_418,2023-12-23,city_Customer_418,O00668,2024-12-04,Credit Card
+C0418,Customer_418,2023-12-23,city_Customer_418,O00894,2024-02-18,Cash On Delivery
+C0419,Customer_419,2023-06-25,city_Customer_419,O00150,2024-04-21,Credit Card
+C0419,Customer_419,2023-06-25,city_Customer_419,O00580,2025-05-02,Cash
+C0419,Customer_419,2023-06-25,city_Customer_419,O00830,2024-12-22,Credit Card
+C0419,Customer_419,2023-06-25,city_Customer_419,O00892,2024-05-09,Credit Card
+C0420,Customer_420,2024-01-28,city_Customer_420,O00475,2025-09-04,Credit Card
+C0420,Customer_420,2024-01-28,city_Customer_420,O01044,2024-07-01,Cash On Delivery
+C0421,Customer_421,2023-11-05,city_Customer_421,O00221,2025-01-27,Upi
+C0421,Customer_421,2023-11-05,city_Customer_421,O00508,2025-03-23,Debit Card
+C0422,Customer_422,2024-05-09,city_Customer_422,O00250,2024-01-06,Debit Card
+C0422,Customer_422,2024-05-09,city_Customer_422,O00323,2024-02-17,Debit Card
+C0423,Customer_423,2024-10-13,city_Customer_423,O00220,2025-03-21,Upi
+C0423,Customer_423,2024-10-13,city_Customer_423,O00620,2024-11-27,Credit Card
+C0423,Customer_423,2024-10-13,city_Customer_423,O00712,2025-03-03,Upi
+C0423,Customer_423,2024-10-13,city_Customer_423,O00810,2024-10-02,Cash
+C0424,Customer_424,2024-09-27,city_Customer_424,O00270,2024-07-06,Unknown
+C0424,Customer_424,2024-09-27,city_Customer_424,O00717,2024-08-12,Credit Card
+C0424,Customer_424,2024-09-27,city_Customer_424,O00719,2024-02-04,Upi
+C0424,Customer_424,2024-09-27,city_Customer_424,O00784,2024-05-14,Credit Card
+C0425,Customer_425,2024-10-17,city_Customer_425,O00592,2024-04-24,Debit Card
+C0425,Customer_425,2024-10-17,city_Customer_425,O01106,2025-09-04,Cash On Delivery
+C0426,Customer_426,2024-09-27,city_Customer_426,O00621,2024-10-22,Upi
+C0426,Customer_426,2024-09-27,city_Customer_426,O01155,2024-06-28,Credit Card
+C0427,Customer_427,2025-04-29,city_Customer_427,O00375,2024-07-03,Credit Card
+C0427,Customer_427,2025-04-29,city_Customer_427,O01021,2024-04-13,Debit Card
+C0427,Customer_427,2025-04-29,city_Customer_427,O01193,2024-12-18,Upi
+C0428,Customer_428,2023-08-12,city_Customer_428,O00078,2024-01-09,Unknown
+C0428,Customer_428,2023-08-12,city_Customer_428,O00223,2025-11-03,Upi
+C0428,Customer_428,2023-08-12,city_Customer_428,O00313,2024-12-21,Cash On Delivery
+C0429,Customer_428,2023-06-10,city_Customer_428,O00003,2025-04-13,Cash
+C0429,Customer_428,2023-06-10,city_Customer_428,O00136,2024-07-29,Credit Card
+C0429,Customer_428,2023-06-10,city_Customer_428,O00663,2024-07-29,Debit Card
+C0429,Customer_428,2023-06-10,city_Customer_428,O00964,2025-01-29,Cash
+C0431,Customer_431,2025-04-15,city_Customer_431,O00181,2024-11-01,Upi
+C0431,Customer_431,2025-04-15,city_Customer_431,O00691,2024-07-10,Upi
+C0431,Customer_431,2025-04-15,city_Customer_431,O00897,2024-02-07,Cash On Delivery
+C0432,Customer_432,2024-07-29,city_Customer_432,O00057,2024-01-18,Upi
+C0432,Customer_432,2024-07-29,city_Customer_432,O00362,2025-03-31,Upi
+C0433,Customer_433,2023-02-09,city_Customer_433,O01079,2024-02-17,Credit Card
+C0434,Customer_434,2023-05-01,city_Customer_434,O00354,2024-09-12,Credit Card
+C0435,Customer_435,2024-07-17,city_Customer_435,O00330,2025-01-24,Credit Card
+C0437,Customer_437,2023-09-13,city_Customer_437,O00390,2025-04-10,Credit Card
+C0437,Customer_437,2023-09-13,city_Customer_437,O00856,2024-08-13,Upi
+C0437,Customer_437,2023-09-13,city_Customer_437,O00976,2024-12-28,Cash
+C0439,Customer_439,2023-07-03,city_Customer_439,O00082,2025-05-14,Cash On Delivery
+C0439,Customer_439,2023-07-03,city_Customer_439,O00239,2024-07-24,Credit Card
+C0439,Customer_439,2023-07-03,city_Customer_439,O00318,2024-12-10,Credit Card
+C0439,Customer_439,2023-07-03,city_Customer_439,O00419,2024-05-14,Credit Card
+C0439,Customer_439,2023-07-03,city_Customer_439,O00498,2024-01-02,Credit Card
+C0439,Customer_439,2023-07-03,city_Customer_439,O00723,2024-04-03,Upi
+C0439,Customer_439,2023-07-03,city_Customer_439,O01051,2024-03-27,Upi
+C0439,Customer_439,2023-07-03,city_Customer_439,O01096,2025-02-14,Upi
+C0439,Customer_439,2023-07-03,city_Customer_439,O01114,2024-09-26,Debit Card
+C0439,Customer_439,2023-07-03,city_Customer_439,O01126,2024-05-13,Credit Card
+C0440,Customer_439,2024-05-16,city_Customer_439,O00794,2024-02-26,Upi
+C0440,Customer_439,2024-05-16,city_Customer_439,O01182,2025-04-20,Upi
+C0441,Customer_441,2025-02-20,city_Customer_441,O00495,2024-12-23,Upi
+C0441,Customer_441,2025-02-20,city_Customer_441,O00603,2024-06-19,Cash On Delivery
+C0441,Customer_441,2025-02-20,city_Customer_441,O00907,2024-02-15,Cash On Delivery
+C0442,Customer_442,2025-05-06,city_Customer_442,O00058,2024-10-16,Upi
+C0442,Customer_442,2025-05-06,city_Customer_442,O00305,2024-11-04,Credit Card
+C0442,Customer_442,2025-05-06,city_Customer_442,O00804,2025-02-14,Credit Card
+C0443,Customer_443,2024-02-14,city_Customer_443,O00143,2024-05-13,Credit Card
+C0443,Customer_443,2024-02-14,city_Customer_443,O01058,2024-11-13,Credit Card
+C0444,Customer_444,2024-01-03,city_Customer_444,O01187,2024-05-12,Unknown
+C0445,Customer_445,2025-04-01,city_Customer_445,O00342,2024-09-07,Cash
+C0445,Customer_445,2025-04-01,city_Customer_445,O00477,2024-05-03,Cash
+C0446,Customer_446,2024-11-03,city_Customer_446,O00486,2025-03-18,Debit Card
+C0446,Customer_446,2024-11-03,city_Customer_446,O00654,2024-07-16,Debit Card
+C0446,Customer_446,2024-11-03,city_Customer_446,O01109,2024-08-14,Debit Card
+C0447,Customer_446,2023-05-14,city_Customer_446,O00184,2025-03-07,Cash
+C0448,Customer_448,2023-11-18,city_Customer_448,O00235,2024-09-21,Cash On Delivery
+C0448,Customer_448,2023-11-18,city_Customer_448,O00962,2024-09-04,Debit Card
+C0448,Customer_448,2023-11-18,city_Customer_448,O00970,2024-09-23,Credit Card
+C0448,Customer_448,2023-11-18,city_Customer_448,O01075,2024-05-15,Upi
+C0448,Customer_448,2023-11-18,city_Customer_448,O01200,2024-03-06,Upi
+C0449,Customer_449,2023-03-23,city_Customer_449,O00544,2024-02-16,Unknown
+C0449,Customer_449,2023-03-23,city_Customer_449,O00852,2024-09-06,Upi
+C0450,Customer_450,2024-01-22,city_Customer_450,O00135,2025-03-21,Debit Card
+C0450,Customer_450,2024-01-22,city_Customer_450,O00363,2024-01-05,Credit Card
+C0450,Customer_450,2024-01-22,city_Customer_450,O00749,2025-02-02,Credit Card
+C0451,Customer_451,2023-01-27,city_Customer_451,O00200,2024-03-04,Credit Card
+C0451,Customer_451,2023-01-27,city_Customer_451,O00383,2024-03-09,Upi
+C0451,Customer_451,2023-01-27,city_Customer_451,O01091,2024-10-07,Upi
+C0452,Customer_452,2025-01-19,city_Customer_452,O00121,2025-01-23,Upi
+C0452,Customer_452,2025-01-19,city_Customer_452,O00376,2024-07-21,Upi
+C0452,Customer_452,2025-01-19,city_Customer_452,O01064,2024-10-09,Cash
+C0453,Customer_453,2023-07-18,city_Customer_453,O00470,2025-03-16,Credit Card
+C0454,Customer_454,2023-10-22,city_Customer_454,O00148,2024-01-01,Debit Card
+C0454,Customer_454,2023-10-22,city_Customer_454,O00282,2024-08-27,Credit Card
+C0454,Customer_454,2023-10-22,city_Customer_454,O00365,2025-02-15,Cash
+C0454,Customer_454,2023-10-22,city_Customer_454,O00516,2024-10-08,Cash
+C0454,Customer_454,2023-10-22,city_Customer_454,O00547,2024-11-07,Upi
+C0454,Customer_454,2023-10-22,city_Customer_454,O00593,2024-12-17,Credit Card
+C0455,Customer_455,2024-12-03,city_Customer_455,O00404,2024-01-08,Cash
+C0455,Customer_455,2024-12-03,city_Customer_455,O00680,2024-05-16,Cash
+C0455,Customer_455,2024-12-03,city_Customer_455,O00858,2024-08-28,Cash
+C0456,Customer_456,2023-03-09,city_Customer_456,O00831,2025-01-07,Unknown
+C0456,Customer_456,2023-03-09,city_Customer_456,O01121,2024-09-01,Upi
+C0457,Customer_457,2025-02-13,city_Customer_457,O00553,2024-07-13,Cash On Delivery
+C0457,Customer_457,2025-02-13,city_Customer_457,O00732,2024-10-29,Upi
+C0457,Customer_457,2025-02-13,city_Customer_457,O00899,2024-04-05,Cash
+C0457,Customer_457,2025-02-13,city_Customer_457,O01046,2024-02-13,Credit Card
+C0457,Customer_457,2025-02-13,city_Customer_457,O01087,2024-04-29,Upi
+C0457,Customer_457,2025-02-13,city_Customer_457,O01090,2024-09-28,Upi
+C0458,Customer_458,2024-09-20,city_Customer_458,O00061,2024-02-04,Cash On Delivery
+C0458,Customer_458,2024-09-20,city_Customer_458,O00129,2025-05-05,Cash On Delivery
+C0458,Customer_458,2024-09-20,city_Customer_458,O00167,2024-09-19,Credit Card
+C0458,Customer_458,2024-09-20,city_Customer_458,O00731,2024-05-20,Upi
+C0458,Customer_458,2024-09-20,city_Customer_458,O00965,2025-02-03,Cash
+C0459,Customer_459,2023-05-28,city_Customer_459,O00336,2025-05-07,Credit Card
+C0459,Customer_459,2023-05-28,city_Customer_459,O00441,2024-04-12,Debit Card
+C0459,Customer_459,2023-05-28,city_Customer_459,O01198,2024-05-29,Unknown
+C0461,Customer_461,2024-06-02,city_Customer_461,O00614,2024-09-03,Cash
+C0462,Customer_462,2023-02-07,city_Customer_462,O00068,2025-01-10,Credit Card
+C0463,Customer_463,2023-06-15,city_Customer_463,O00084,2024-05-25,Upi
+C0463,Customer_463,2023-06-15,city_Customer_463,O01092,2024-08-12,Cash
+C0464,Customer_464,2024-11-26,city_Customer_464,O01175,2024-09-14,Upi
+C0465,Customer_465,2023-06-22,city_Customer_465,O00430,2024-07-26,Cash On Delivery
+C0465,Customer_465,2023-06-22,city_Customer_465,O00461,2024-10-13,Cash
+C0465,Customer_465,2023-06-22,city_Customer_465,O00507,2024-05-10,Cash
+C0465,Customer_465,2023-06-22,city_Customer_465,O00745,2025-05-11,Unknown
+C0466,Customer_466,2023-04-28,city_Customer_466,O00583,2024-07-26,Unknown
+C0467,Customer_467,2024-10-13,city_Customer_467,O00517,2025-05-12,Upi
+C0467,Customer_467,2024-10-13,city_Customer_467,O01001,2025-04-29,Unknown
+C0467,Customer_467,2024-10-13,city_Customer_467,O01145,2024-11-18,Cash
+C0468,Customer_468,2024-07-22,city_Customer_468,O00578,2025-04-15,Upi
+C0468,Customer_468,2024-07-22,city_Customer_468,O00774,2024-10-19,Unknown
+C0468,Customer_468,2024-07-22,city_Customer_468,O01115,2024-11-25,Cash On Delivery
+C0469,Customer_469,2023-04-18,city_Customer_469,O00664,2024-03-15,Credit Card
+C0469,Customer_469,2023-04-18,city_Customer_469,O00791,2024-07-22,Upi
+C0470,Customer_470,2024-10-06,city_Customer_470,O00111,2024-09-06,Cash On Delivery
+C0470,Customer_470,2024-10-06,city_Customer_470,O00686,2024-01-18,Unknown
+C0470,Customer_470,2024-10-06,city_Customer_470,O00816,2024-03-23,Upi
+C0471,Customer_471,2025-03-27,city_Customer_471,O00389,2024-06-02,Credit Card
+C0471,Customer_471,2025-03-27,city_Customer_471,O00853,2024-10-11,Unknown
+C0472,Customer_472,2024-01-13,city_Customer_472,O00071,2024-08-12,Upi
+C0472,Customer_472,2024-01-13,city_Customer_472,O00205,2025-04-01,Debit Card
+C0472,Customer_472,2024-01-13,city_Customer_472,O00367,2024-08-07,Credit Card
+C0472,Customer_472,2024-01-13,city_Customer_472,O00529,2024-03-31,Upi
+C0473,Customer_473,2023-12-05,city_Customer_473,O00247,2025-04-02,Cash On Delivery
+C0473,Customer_473,2023-12-05,city_Customer_473,O00331,2025-05-03,Credit Card
+C0473,Customer_473,2023-12-05,city_Customer_473,O00770,2024-09-05,Credit Card
+C0473,Customer_473,2023-12-05,city_Customer_473,O00958,2024-01-16,Cash
+C0473,Customer_473,2023-12-05,city_Customer_473,O01002,2025-02-04,Credit Card
+C0473,Customer_473,2023-12-05,city_Customer_473,O01027,2024-01-12,Credit Card
+C0474,Customer_474,2023-08-24,city_Customer_474,O00301,2024-07-05,Cash
+C0474,Customer_474,2023-08-24,city_Customer_474,O00556,2024-12-24,Cash On Delivery
+C0474,Customer_474,2023-08-24,city_Customer_474,O01028,2025-04-22,Credit Card
+C0474,Customer_474,2023-08-24,city_Customer_474,O01037,2024-12-30,Credit Card
+C0475,Customer_475,2023-02-19,city_Customer_475,O00452,2025-03-23,Upi
+C0475,Customer_475,2023-02-19,city_Customer_475,O00768,2025-02-03,Credit Card
+C0476,Customer_476,2023-09-17,city_Customer_476,O00298,2025-01-31,Credit Card
+C0476,Customer_476,2023-09-17,city_Customer_476,O00576,2024-02-12,Credit Card
+C0476,Customer_476,2023-09-17,city_Customer_476,O01123,2024-03-11,Upi
+C0477,Customer_477,2024-11-10,city_Customer_477,O00092,2024-12-28,Debit Card
+C0477,Customer_477,2024-11-10,city_Customer_477,O00980,2024-07-20,Credit Card
+C0480,Customer_480,2024-03-18,city_Customer_480,O00010,2024-05-30,Credit Card
+C0480,Customer_480,2024-03-18,city_Customer_480,O00126,2025-01-02,Upi
+C0480,Customer_480,2024-03-18,city_Customer_480,O00436,2024-07-01,Cash On Delivery
+C0480,Customer_480,2024-03-18,city_Customer_480,O00785,2024-10-01,Upi
+C0480,Customer_480,2024-03-18,city_Customer_480,O00942,2025-02-09,Upi
+C0480,Customer_480,2024-03-18,city_Customer_480,O01032,2024-01-28,Upi
+C0481,Customer_481,2023-02-18,city_Customer_481,O00008,2024-11-24,Credit Card
+C0481,Customer_481,2023-02-18,city_Customer_481,O00011,2024-06-30,Debit Card
+C0481,Customer_481,2023-02-18,city_Customer_481,O00777,2024-12-20,Credit Card
+C0481,Customer_481,2023-02-18,city_Customer_481,O00914,2024-10-25,Cash
+C0481,Customer_481,2023-02-18,city_Customer_481,O01137,2024-09-09,Cash
+C0482,Customer_482,2024-09-19,city_Customer_482,O00076,2024-12-12,Credit Card
+C0482,Customer_482,2024-09-19,city_Customer_482,O00706,2024-12-04,Cash On Delivery
+C0482,Customer_482,2024-09-19,city_Customer_482,O00776,2024-03-27,Credit Card
+C0482,Customer_482,2024-09-19,city_Customer_482,O00881,2024-04-13,Unknown
+C0482,Customer_482,2024-09-19,city_Customer_482,O00929,2024-06-20,Cash
+C0483,Customer_483,2023-02-25,city_Customer_483,O00122,2024-06-14,Debit Card
+C0483,Customer_483,2023-02-25,city_Customer_483,O00190,2024-12-08,Credit Card
+C0483,Customer_483,2023-02-25,city_Customer_483,O00738,2024-05-17,Cash
+C0484,Customer_483,2023-11-08,city_Customer_483,O00067,2024-10-01,Credit Card
+C0484,Customer_483,2023-11-08,city_Customer_483,O00904,2024-04-18,Cash
+C0484,Customer_483,2023-11-08,city_Customer_483,O00943,2024-10-16,Credit Card
+C0485,Customer_485,2024-06-30,city_Customer_485,O00518,2025-01-17,Unknown
+C0485,Customer_485,2024-06-30,city_Customer_485,O00557,2024-03-31,Unknown
+C0485,Customer_485,2024-06-30,city_Customer_485,O00979,2024-04-25,Debit Card
+C0485,Customer_485,2024-06-30,city_Customer_485,O01116,2025-05-05,Upi
+C0488,Customer_488,2023-06-12,city_Customer_488,O00408,2025-05-10,Unknown
+C0488,Customer_488,2023-06-12,city_Customer_488,O00463,2024-02-21,Cash
+C0488,Customer_488,2023-06-12,city_Customer_488,O00761,2025-04-04,Upi
+C0488,Customer_488,2023-06-12,city_Customer_488,O00960,2024-09-27,Upi
+C0489,Customer_489,2024-12-25,city_Customer_489,O00525,2024-10-19,Credit Card
+C0489,Customer_489,2024-12-25,city_Customer_489,O01066,2024-02-29,Debit Card
+C0490,Customer_490,2023-03-07,city_Customer_490,O00206,2024-08-28,Upi
+C0490,Customer_490,2023-03-07,city_Customer_490,O00460,2025-01-25,Debit Card
+C0490,Customer_490,2023-03-07,city_Customer_490,O00744,2024-10-21,Cash On Delivery
+C0492,Customer_492,2023-01-12,city_Customer_492,O00855,2025-04-17,Credit Card
+C0493,Customer_493,2023-12-25,city_Customer_493,O01146,2025-05-01,Credit Card
+C0494,Customer_494,2024-03-30,city_Customer_494,O00868,2024-05-11,Upi
+C0495,Customer_495,2025-01-21,city_Customer_495,O00140,2024-02-28,Upi
+C0495,Customer_495,2025-01-21,city_Customer_495,O00325,2024-05-01,Credit Card
+C0496,Customer_496,2023-01-01,city_Customer_496,O00029,2024-08-27,Unknown
+C0496,Customer_496,2023-01-01,city_Customer_496,O00415,2024-06-19,Upi
+C0496,Customer_496,2023-01-01,city_Customer_496,O00734,2024-04-24,Cash
+C0496,Customer_496,2023-01-01,city_Customer_496,O00860,2025-01-16,Cash On Delivery
+C0496,Customer_496,2023-01-01,city_Customer_496,O01012,2024-08-16,Upi
+C0497,Customer_496,2023-01-26,city_Customer_496,O00608,2024-05-23,Upi
+C0498,Customer_498,2023-06-13,city_Customer_498,O00448,2024-07-26,Cash
+C0498,Customer_498,2023-06-13,city_Customer_498,O00489,2025-11-01,Upi
+C0498,Customer_498,2023-06-13,city_Customer_498,O00789,2024-10-14,Upi
+C0498,Customer_498,2023-06-13,city_Customer_498,O01049,2024-08-30,Unknown
